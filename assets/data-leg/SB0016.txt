@@ -1,0 +1,742 @@
+Enrolled Copy	S.B. 16
+
+
+1 TRANSGENDER MEDICAL TREATMENTS AND PROCEDURES
+2 AMENDMENTS
+3 2023 GENERAL SESSION
+4 STATE OF UTAH
+5 Chief Sponsor: Michael S. Kennedy
+6 House Sponsor: Katy Hall
+7
+8 LONG TITLE
+9 General Description:
+10 This bill enacts provisions regarding transgender medical treatments and procedures.
+11 Highlighted Provisions:
+12 This bill:
+13 ?	defines terms;
+14 ?	requires the Department of Health and Human Services to conduct a systematic
+15 review of the medical evidence regarding hormonal transgender treatments and
+16 provide recommendations to the Legislature;
+17 ?	requires the Division of Professional Licensing to create a certification for
+18 providing hormonal transgender treatments;
+19 ?	requires a health care provider to meet certain requirements before providing a
+20 hormonal transgender treatment;
+21 ?	prohibits a health care provider from providing a hormonal transgender treatment to
+22 new patients who were not diagnosed with gender dysphoria before a certain date;
+23 ?	prohibits performing sex characteristic surgical procedures on a minor for the
+24 purpose of effectuating a sex change;
+25 ?	specifies that an individual may bring a medical malpractice action related to certain
+26 medical treatments and procedures;
+27 ?	specifies that an individual may disaffirm consent under certain circumstances;
+28 ?	allows an individual to bring a medical malpractice action for treatment provided to
+
+29 the individual as a minor if the individual later disaffirms consent;
+30 ?	extends the medical malpractice statute of limitations related to providing certain
+31 medical treatments and procedures; and
+32 ?	makes technical changes.
+33 Money Appropriated in this Bill:
+34 None
+35 Other Special Clauses:
+36 This bill provides a special effective date.
+37 This bill provides revisor instructions.
+38 Utah Code Sections Affected:
+39 AMENDS:
+40 58-67-102, as last amended by Laws of Utah 2022, Chapter 233
+41 58-67-502, as last amended by Laws of Utah 2021, Chapter 337
+42 58-68-102, as last amended by Laws of Utah 2022, Chapter 233
+43 58-68-502, as last amended by Laws of Utah 2021, Chapter 337
+44 ENACTS:
+45 26B-1-214, Utah Code Annotated 1953
+46 58-1-603, Utah Code Annotated 1953
+47 58-1-603.1, Utah Code Annotated 1953
+48 78B-3-427, Utah Code Annotated 1953
+49 Utah Code Sections Affected by Revisor Instructions:
+50 58-1-603.1, Utah Code Annotated 1953
+51 78B-3-427, Utah Code Annotated 1953
+52
+53 Be it enacted by the Legislature of the state of Utah:
+54 Section 1. Section 26B-1-214 is enacted to read:
+55 26B-1-214. Systematic medical evidence review of hormonal transgender
+
+56 treatments.
+57 (1) As used in this section, "hormonal transgender treatment" means the same as that
+58 term is defined in Section 58-1-603.
+
+59 (2) The department, in consultation with the Division of Professional Licensing created
+60 in Section 58-1-103, the Physicians Licensing Board created in Section 58-67-201, the
+61 Osteopathic Physician and Surgeon's Licensing Board created in Section 58-68-201, the
+62 University of Utah, and a non-profit hospital system with multiple hospitals in Utah and
+63 experience in specialty pediatric care, shall conduct a systematic medical evidence review
+64 regarding the provision of hormonal transgender treatments to minors.
+65 (3) The purpose of the systematic medical evidence review is to provide the Legislature
+66 with recommendations to consider when deciding whether to lift the moratorium described in
+67 Section 58-1-603.1.
+
+68 (4) The systematic medical evidence review shall:
+69 (a) analyze hormonal transgender treatments that are prescribed to a minor with gender
+70 dysphoria, including:
+71 (i) analyzing any effects and side effects of the treatment; and
+72 (ii) whether each treatment has been approved by the federal Food and Drug
+73 Administration to treat gender dysphoria;
+74 (b) review the scientific literature regarding hormonal transgender treatments in
+75 minors, including short-term and long-term impacts, literature from other countries, and rates
+76 of desistence and time to desistence where applicable;
+77 (c) review the quality of evidence cited in any scientific literature including to analyze
+78 and report on the quality of the data based on techniques such as peer review, selection bias,
+79 self-selection bias, randomization, sample size, and other applicable best research practices;
+80 (d) include high quality clinical research assessing the short-term and long-term
+81 benefits and harms of hormonal transgender treatments prescribed to minors with gender
+82 dysphoria and the short-term and long-term benefits and harms of interrupting the natural
+
+83 puberty and development processes of the child;
+84 (e) specify the conditions under which the department recommends that a treatment not
+85 be permitted;
+86 (f) recommend what information a minor and the minor's parent should understand
+87 before consenting to a hormonal transgender treatment;
+88 (g) recommend the best practices a health care provider should follow to provide the
+89 information described in Subsection (4)(f);
+90 (h) describe the assumptions and value determinations used to reach a
+91 recommendation; and
+92 (i) include any other information the department, in consultation with the entities
+93 described in Subsection (2), determines would assist the Legislature in enacting legislation
+94 related to the provision of hormonal transgender treatment to minors.
+95 (5) Upon the completion of the systematic medical evidence review, the department
+96 shall provide the systematic medical evidence review to the Health and Human Services
+97 Interim Committee.
+98 Section 2. Section 58-1-603 is enacted to read:
+99 58-1-603. Hormonal transgender treatment on minors -- Requirements.
+100 (1) As used in this section:
+101 (a) "Approved organization" means an organization with expertise regarding
+102 transgender health care for minors that is approved by the division.
+103 (b) "Biological sex at birth" means an individual's sex, as being male or female,
+104 according to distinct reproductive roles as manifested by sex and reproductive organ anatomy,
+105 chromosomal makeup, and endogenous hormone profiles.
+106 (c) "Disorder of sexual development" means a sexual development disorder where an
+107 individual:
+108 (i) is born with external biological sex characteristics that are irresolvably ambiguous;
+109 (ii) is born with 46, XX chromosomes with virilization;
+
+110 (iii) is born with 46, XY chromosomes with undervirilization;
+111 (iv) has both ovarian and testicular tissue; or
+112 (v) has been diagnosed by a physician, based on genetic or biochemical testing, with
+113 abnormal:
+114 (A) sex chromosome structure;
+115 (B) sex steroid hormone production; or
+116 (C) sex steroid hormone action for a male or female.
+117 (d) "Health care provider" means:
+118 (i) a physician;
+119 (ii) a physician assistant licensed under Chapter 70a, Utah Physician Assistant Act; or
+120 (iii) an advanced practice registered nurse licensed under Subsection 58-31b-301(2)(e).
+121 (e) (i) "Hormonal transgender treatment" means administering, prescribing, or
+122 supplying for effectuating or facilitating an individual's attempted sex change:
+123 (A) to an individual whose biological sex at birth is female, a dose of testosterone or
+124 other androgens at levels above those normally found in an individual whose biological sex at
+125 birth is female;
+126 (B) to an individual whose biological sex at birth is male, a dose of estrogen or a
+127 synthetic compound with estrogenic activity or effect at levels above those normally found in
+128 an individual whose biological sex at birth is male; or
+129 (C) a puberty inhibition drug.
+130 (ii) "Hormonal transgender treatment" does not include administering, prescribing, or
+131 supplying a substance described in Subsection (1)(e)(i) to an individual if the treatment is
+132 medically necessary as a treatment for:
+133 (A) precocious puberty;
+134 (B) endometriosis;
+135 (C) a menstrual, ovarian, or uterine disorder;
+136 (D) a sex-hormone stimulated cancer; or
+
+137 (E) a disorder of sexual development.
+138 (f) "Mental health professional" means any of the following:
+139 (i) a physician who is board certified for a psychiatry specialization recognized by the
+140 American Board of Medical Specialists or the American Osteopathic Association's Bureau of
+141 Osteopathic Specialists;
+142 (ii) a psychologist licensed under Chapter 61, Psychologist Licensing Act;
+143 (iii) a clinical social worker licensed under Chapter 60, Part 2, Social Worker
+144 Licensing Act;
+145 (iv) a marriage and family therapist licensed under Chapter 60, Part 3, Marriage and
+146 Family Therapist Licensing Act; or
+147 (v) a clinical mental health counselor licensed under Chapter 60, Part 4, Clinical
+148 Mental Health Counselor Licensing Act.
+149 (g) "Minor" means an individual who is less than 18 years old.
+150 (h) "Physician" means an individual licensed under:
+151 (i) Chapter 67, Utah Medical Practice Act; or
+152 (ii) Chapter 68, Utah Osteopathic Medical Practice Act.
+153 (i) "Puberty inhibition drug" means any of the following alone or in combination with
+154 aromatase inhibitors:
+155 (i) gonadotropin-releasing hormone agonists; or
+156 (ii) androgen receptor inhibitors.
+157 (j) "Transgender treatment certification" means a certification described in Subsection
+158	(2).
+159	(2) (a) The division shall create a transgender treatment certification on or before July
+160	1, 2023.
+161 (b) The division may issue the transgender treatment certification to an individual if the
+162 individual:
+163 (i) is a health care provider or a mental health professional; and
+
+164 (ii) has completed at least 40 hours of education related to transgender health care for
+165 minors from an approved organization.
+166 (c) The division may renew a transgender treatment certification:
+167 (i) at the time an individual renews the individual's license; and
+168 (ii) if the individual has completed at least 20 hours of continuing education related to
+169 transgender health care for minors from an approved organization during the individual's
+170 continuing education cycle.
+171 (d) Beginning January 1, 2024, providing a hormonal transgender treatment to a minor
+172 without a transgender treatment certification is unprofessional conduct.
+173 (3) (a) A health care provider may provide a hormonal transgender treatment to a
+174 minor only if the health care provider has been treating the minor for gender dysphoria for at
+175 least six months.
+176 (b) Beginning July 1, 2023, before providing a hormonal transgender treatment to a
+177 minor described in Subsection (3)(a), a health care provider shall:
+178 (i) determine if the minor has other physical or mental health conditions, identify and
+179 document any condition, and consider whether treating those conditions before treating the
+180 gender dysphoria would provide the minor the best long-term outcome;
+181 (ii) consider whether an alternative medical treatment or behavioral intervention to
+182 treat the minor's gender dysphoria would provide the minor the best long-term outcome;
+183 (iii) document in the medical record that:
+184 (A) the health care provider has complied with Subsections (3)(b)(i) and (ii); and
+185 (B) providing the hormonal transgender treatment will likely result in the best
+186 long-term outcome for the minor;
+187 (iv) obtain written consent from:
+188 (A) the minor; and
+189 (B) the minor's parent or guardian unless the minor is emancipated;
+190 (v) discuss with the minor:
+
+191 (A) the risks of the hormonal transgender treatment;
+192 (B) the minor's short-term and long-term expectations regarding the effect that the
+193 hormonal transgender treatment will have on the minor; and
+194 (C) the likelihood that the hormonal transgender treatment will meet the short-term and
+195 long-term expectations described in Subsection (3)(b)(v)(B);
+196 (vi) unless the minor is emancipated, discuss with the minor's parent or guardian:
+197 (A) the risks of the hormonal transgender treatment;
+198 (B) the minor's short-term and long-term expectations regarding the effect that the
+199 hormonal transgender treatment will have on the minor;
+200 (C) the parent or guardian's short-term and long-term expectations regarding the effect
+201 that the hormonal transgender treatment will have on the minor; and
+202 (D) the likelihood that the hormonal transgender treatment will meet the short-term and
+203 long-term expectations described in Subsections (3)(b)(vi)(B) and (C);
+204 (vii) document in the medical record that the health care provider has provided the
+205 information described in Subsections (3)(b)(viii) and (ix);
+206 (viii) provide the minor the following information if providing the minor a puberty
+207 inhibition drug:
+208 (A) puberty inhibition drugs are not approved by the FDA for the treatment of gender
+209 dysphoria;
+210 (B) possible adverse outcomes of puberty blockers are known to include diminished
+211 bone density, pseudotumor cerebri and long term adult sexual dysfunction;
+212 (C) research on the long-term risks to children of prolonged treatment with puberty
+213 blockers for the treatment of gender dysphoria has not yet occurred; and
+214 (D) the full effects of puberty blockers on brain development and cognition are
+215 unknown;
+216 (ix) provide the minor the following information if providing a cross-sex hormone as
+217 described in Subsection (1)(e)(i)(A) or (B):
+
+218 (A) the use of cross-sex hormones in males is associated with risks that include blood
+219 clots, gallstones, coronary artery disease, heart attacks, tumors of the pituitary gland, strokes,
+220 elevated levels of triglycerides in the blood, breast cancer, and irreversible infertility; and
+221 (B) the use of cross-sex hormones in females is associated with risks of erythrocytosis,
+222 severe liver dysfunction, coronary artery disease, hypertension, and increased risk of breast and
+223 uterine cancers; and
+224 (x) upon the completion of any relevant information privacy release, obtain a mental
+225 health evaluation of the minor as described in Subsection (4).
+226 (4) The mental health evaluation shall:
+227 (a) be performed by a mental health professional who:
+228 (i) beginning January 1, 2024, has a current transgender treatment certification; and
+229 (ii) is not the health care provider that is recommending or providing the hormonal
+230 transgender treatment;
+231 (b) contain a determination regarding whether the minor suffers from gender dysphoria
+232 in accordance with the fifth edition of the Diagnostic and Statistical Manual of Mental
+233 Disorders;
+234 (c) confirm that the minor and the mental health professional have had at least three
+235 therapy sessions; and
+236 (d) document all of the minor's mental health diagnoses and any significant life events
+237 that may be contributing to the diagnoses.
+238 (5) A violation of Subsection (3) is unprofessional conduct.
+239 Section 3. Section 58-1-603.1 is enacted to read:
+240 58-1-603.1. Hormonal transgender treatment moratorium.
+241 (1) As used in this section:
+242 (a) "Health care provider" means the same as that term is defined in Section 58-1-603.
+
+243 (b) "Hormonal transgender treatment" means the same as that term is defined in
+244	Section 58-1-603.
+
+
+245 (2) A health care provider may not provide a hormonal transgender treatment to a
+246 patient who:
+247 (a) is a minor as defined in Section 58-1-603; and
+248 (b) is not diagnosed with gender dysphoria before the effective date of this bill.
+249 (3) A violation of Subsection (2) is unprofessional conduct.
+250 Section 4. Section 58-67-102 is amended to read:
+251 58-67-102.  Definitions.
+252 In addition to the definitions in Section 58-1-102, as used in this chapter:
+253 (1) (a) "Ablative procedure" means a procedure that is expected to excise, vaporize,
+254 disintegrate, or remove living tissue, including the use of carbon dioxide lasers and erbium:
+255 YAG lasers.
+256 (b) "Ablative procedure" does not include hair removal.
+257 (2) "ACGME" means the Accreditation Council for Graduate Medical Education of the
+258 American Medical Association.
+259 (3) "Administrative penalty" means a monetary fine or citation imposed by the division
+260 for acts or omissions determined to constitute unprofessional or unlawful conduct, in
+261 accordance with a fine schedule established by the division in collaboration with the board, as a
+262 result of an adjudicative proceeding conducted in accordance with Title 63G, Chapter 4,
+263 Administrative Procedures Act.
+264 (4) "Associate physician" means an individual licensed under Section 58-67-302.8.
+265 (5) "Attempted sex change" means an attempt or effort to change an individual's body
+266 to present that individual as being of a sex or gender that is different from the individual's
+267 biological sex at birth.
+268 (6) "Biological sex at birth" means an individual's sex, as being male or female,
+269 according to distinct reproductive roles as manifested by:
+270 (a) sex and reproductive organ anatomy;
+271 (b) chromosomal makeup; and
+
+272 (c) endogenous hormone profiles.
+273 [(5)] (7) "Board" means the Physicians Licensing Board created in Section 58-67-201.
+274 [(6)] (8) "Collaborating physician" means an individual licensed under Section
+275 58-67-302 who enters into a collaborative practice arrangement with an associate physician.
+276 [(7)] (9) "Collaborative practice arrangement" means the arrangement described in
+277	Section 58-67-807.
+278 [(8)] (10) (a) "Cosmetic medical device" means tissue altering energy based devices
+279 that have the potential for altering living tissue and that are used to perform ablative or
+280 nonablative procedures, such as American National Standards Institute (ANSI) designated
+281 Class IIIb and Class IV lasers, intense pulsed light, radio frequency devices, and lipolytic
+282 devices, and excludes ANSI designated Class IIIa and lower powered devices.
+283 (b) Notwithstanding Subsection [(8)(a)] (10)(a), if an ANSI designated Class IIIa and
+284 lower powered device is being used to perform an ablative procedure, the device is included in
+285 the definition of cosmetic medical device under Subsection [(8)(a)] (10)(a).
+286 [(9)] (11) "Cosmetic medical procedure":
+287 (a) includes the use of cosmetic medical devices to perform ablative or nonablative
+288 procedures; and
+289 (b) does not include a treatment of the ocular globe such as refractive surgery.
+290 [(10)] (12) "Diagnose" means:
+291 (a) to examine in any manner another person, parts of a person's body, substances,
+292 fluids, or materials excreted, taken, or removed from a person's body, or produced by a person's
+293 body, to determine the source, nature, kind, or extent of a disease or other physical or mental
+294 condition;
+295 (b) to attempt to conduct an examination or determination described under Subsection
+296	[(10)(a);] (12)(a);
+297 (c) to hold oneself out as making or to represent that one is making an examination or
+298 determination as described in Subsection [(10)(a);] (12)(a); or
+
+299 (d) to make an examination or determination as described in Subsection [(10)(a)]
+300 (12)(a) upon or from information supplied directly or indirectly by another person, whether or
+301 not in the presence of the person making or attempting the diagnosis or examination.
+302 [(11)] (13) "LCME" means the Liaison Committee on Medical Education of the
+303 American Medical Association.
+304 [(12)] (14) "Medical assistant" means an unlicensed individual who may perform tasks
+305 as described in Subsection 58-67-305(6).
+306 [(13)] (15) "Medically underserved area" means a geographic area in which there is a
+307 shortage of primary care health services for residents, as determined by the Department of
+308 Health and Human Services.
+309 [(14)] (16) "Medically underserved population" means a specified group of people
+310 living in a defined geographic area with a shortage of primary care health services, as
+311 determined by the Department of Health and Human Services.
+312 [(15)] (17) (a) (i) "Nonablative procedure" means a procedure that is expected or
+313 intended to alter living tissue, but is not intended or expected to excise, vaporize, disintegrate,
+314 or remove living tissue.
+315 (ii) Notwithstanding Subsection [(15)(a)(i),] (17)(a)(i) nonablative procedure includes
+316 hair removal.
+317 (b) "Nonablative procedure" does not include:
+318 (i) a superficial procedure as defined in Section 58-1-102;
+319 (ii) the application of permanent make-up; or
+320 (iii) the use of photo therapy and lasers for neuromusculoskeletal treatments that are
+321 performed by an individual licensed under this title who is acting within the individual's scope
+322 of practice.
+323 [(16)] (18) "Physician" means both physicians and surgeons licensed under Section
+324 58-67-301, Utah Medical Practice Act, and osteopathic physicians and surgeons licensed under
+325 Section 58-68-301, Utah Osteopathic Medical Practice Act.
+
+326 [(17)] (19) (a) "Practice of medicine" means:
+327 (i) to diagnose, treat, correct, administer anesthesia, or prescribe for any human
+328 disease, ailment, injury, infirmity, deformity, pain or other condition, physical or mental, real
+329 or imaginary, including to perform cosmetic medical procedures, or to attempt to do so, by any
+330 means or instrumentality, and by an individual in Utah or outside the state upon or for any
+331 human within the state;
+332 (ii) when a person not licensed as a physician directs a licensee under this chapter to
+333 withhold or alter the health care services that the licensee has ordered;
+334 (iii) to maintain an office or place of business for the purpose of doing any of the acts
+335 described in Subsection [(17)(a)] (19)(a)(i) or (ii) whether or not for compensation; or
+336 (iv) to use, in the conduct of any occupation or profession pertaining to the diagnosis or
+337 treatment of human diseases or conditions in any printed material, stationery, letterhead,
+338 envelopes, signs, or advertisements, the designation "doctor," "doctor of medicine,"
+339 "physician," "surgeon," "physician and surgeon," "Dr.," "M.D.," or any combination of these
+340 designations in any manner which might cause a reasonable person to believe the individual
+341 using the designation is a licensed physician and surgeon, and if the party using the designation
+342 is not a licensed physician and surgeon, the designation must additionally contain the
+343 description of the branch of the healing arts for which the person has a license, provided that an
+344 individual who has received an earned degree of doctor of medicine degree but is not a licensed
+345 physician and surgeon in Utah may use the designation "M.D." if it is followed by "Not
+346 Licensed" or "Not Licensed in Utah" in the same size and style of lettering.
+347 (b) The practice of medicine does not include:
+348 (i) except for an ablative medical procedure as provided in Subsection [(17)(b)(ii),]
+349 (19)(b)(ii) the conduct described in Subsection [(17)(a)(i)] (19)(a)(i) that is performed in
+350 accordance with a license issued under another chapter of this title;
+351 (ii) an ablative cosmetic medical procedure if the scope of practice for the person
+352 performing the ablative cosmetic medical procedure includes the authority to operate or
+
+353 perform a surgical procedure; or
+354 (iii) conduct under Subsection 58-67-501(2).
+355 [(18)] (20) "Prescription device" means an instrument, apparatus, implement, machine,
+356 contrivance, implant, in vitro reagent, or other similar or related article, and any component
+357 part or accessory, which is required under federal or state law to be prescribed by a practitioner
+358 and dispensed by or through a person or entity licensed under this chapter or exempt from
+359 licensure under this chapter.
+360 [(19)] (21) "Prescription drug" means a drug that is required by federal or state law or
+361 rule to be dispensed only by prescription or is restricted to administration only by practitioners.
+362 (22) (a) "Primary sex characteristic surgical procedure" means any of the following if
+363 done for the purpose of effectuating or facilitating an individual's attempted sex change:
+364 (i) for an individual whose biological sex at birth is male, castration, orchiectomy,
+365 penectomy, vaginoplasty, or vulvoplasty;
+366 (ii) for an individual whose biological sex at birth is female, hysterectomy,
+367 oophorectomy, metoidioplasty, or phalloplasty; or
+368 (iii) any surgical procedure that is related to or necessary for a procedure described in
+369 Subsection (22)(a)(i) or (ii), that would result in the sterilization of an individual who is not
+370 sterile.
+371 (b) "Primary sex characteristic surgical procedure" does not include:
+372 (i) surgery or other procedures or treatments performed on an individual who:
+373 (A) is born with external biological sex characteristics that are irresolvably ambiguous;
+374 (B) is born with 46, XX chromosomes with virilization;
+375 (C) is born with 46, XY chromosomes with undervirilization;
+376 (D) has both ovarian and testicular tissue; or
+377 (E) has been diagnosed by a physician, based on genetic or biochemical testing, with a
+378 sex development disorder characterized by abnormal sex chromosome structure, sex steroid
+379 hormone production, or sex steroid hormone action for a male or female; or
+
+380 (ii) removing a body part:
+381 (A) because the body part is cancerous or diseased; or
+382 (B) for a reason that is medically necessary, other than to effectuate or facilitate an
+383 individual's attempted sex change.
+384 (23) (a) "Secondary sex characteristic surgical procedure" means any of the following
+385 if done for the purpose of effectuating or facilitating an individual's attempted sex change:
+386 (i) for an individual whose biological sex at birth is male, breast augmentation surgery,
+387 chest feminization surgery, or facial feminization surgery; or
+388 (ii) for an individual whose biological sex at birth is female, mastectomy, breast
+389 reduction surgery, chest masculinization surgery, or facial masculinization surgery.
+390 (b) "Secondary sex characteristic surgical procedure" does not include:
+391 (i) surgery or other procedures or treatments performed on an individual who:
+392 (A) is born with external biological sex characteristics that are irresolvably ambiguous;
+393 (B) is born with 46, XX chromosomes with virilization;
+394 (C) is born with 46, XY chromosomes with undervirilization;
+395 (D) has both ovarian and testicular tissue; or
+396 (E) has been diagnosed by a physician, based on genetic or biochemical testing, with a
+397 sex development disorder characterized by abnormal sex chromosome structure, sex steroid
+398 hormone production, or sex steroid hormone action for a male or female; or
+399 (ii) removing a body part:
+400 (A) because the body part is cancerous or diseased; or
+401 (B) for a reason that is medically necessary, other than to effectuate or facilitate an
+402 individual's attempted sex change.
+403 [(20)] (24) "SPEX" means the Special Purpose Examination of the Federation of State
+404 Medical Boards.
+405 [(21)] (25) "Unlawful conduct" means the same as that term is defined in Sections
+406	58-1-501 and 58-67-501.
+
+407 [(22)] (26) "Unprofessional conduct" means the same as that term is defined in
+408 Sections 58-1-501 and 58-67-502, and as may be further defined by division rule.
+409 Section 5. Section 58-67-502 is amended to read:
+410 58-67-502. Unprofessional conduct.
+411 (1) "Unprofessional conduct" includes, in addition to the definition in Section
+412	58-1-501:
+413	(a) using or employing the services of any individual to assist a licensee in any manner
+414	not in accordance with the generally recognized practices, standards, or ethics of the
+415	profession, state law, or division rule;
+416	(b) making a material misrepresentation regarding the qualifications for licensure under
+417	Section 58-67-302.7 or [Section] 58-67-302.8;
+418 (c) violating the dispensing requirements of Chapter 17b, Part 8, Dispensing Medical
+419 Practitioner and Dispensing Medical Practitioner Clinic Pharmacy, if applicable;
+420 (d) violating the requirements of Title 26, Chapter 61a, Utah Medical Cannabis Act;
+421 [or]
+422 (e) falsely making an entry in, or altering, a medical record with the intent to conceal:
+423 (i) a wrongful or negligent act or omission of an individual licensed under this chapter
+424 or an individual under the direction or control of an individual licensed under this chapter; or
+425 (ii) conduct described in Subsections (1)(a) through (d) or Subsection 58-1-501(1)[.];
+
+426 or
+427 (f) performing, or causing to be performed, upon an individual who is less than 18
+428 years old:
+429 (i) a primary sex characteristic surgical procedure; or
+430 (ii) a secondary sex characteristic surgical procedure.
+431 (2) "Unprofessional conduct" does not include:
+432 (a) in compliance with Section 58-85-103:
+433 (i) obtaining an investigational drug or investigational device;
+
+434 (ii) administering the investigational drug to an eligible patient; or
+435 (iii) treating an eligible patient with the investigational drug or investigational device;
+436 or
+437 (b) in accordance with Title 26, Chapter 61a, Utah Medical Cannabis Act:
+438 (i) when registered as a qualified medical provider or acting as a limited medical
+439 provider, as those terms are defined in Section 26-61a-102, recommending the use of medical
+440 cannabis;
+441 (ii) when registered as a pharmacy medical provider, as that term is defined in Section
+442 26-61a-102, providing pharmacy medical provider services in a medical cannabis pharmacy; or
+443 (iii) when registered as a state central patient portal medical provider, as that term is
+444 defined in Section 26-61a-102, providing state central patient portal medical provider services.
+445 (3) Notwithstanding Subsection (2)(b), the division, in consultation with the board and
+446 in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, shall define
+447 unprofessional conduct for a physician described in Subsection (2)(b).
+448 Section 6. Section 58-68-102 is amended to read:
+449 58-68-102.  Definitions.
+450 In addition to the definitions in Section 58-1-102, as used in this chapter:
+451 (1) (a) "Ablative procedure" means a procedure that is expected to excise, vaporize,
+452 disintegrate, or remove living tissue, including the use of carbon dioxide lasers and erbium:
+453 YAG lasers.
+454 (b) "Ablative procedure" does not include hair removal.
+455 (2) "ACGME" means the Accreditation Council for Graduate Medical Education of the
+456 American Medical Association.
+457 (3) "Administrative penalty" means a monetary fine imposed by the division for acts or
+458 omissions determined to constitute unprofessional or unlawful conduct, as a result of an
+459 adjudicative proceeding conducted in accordance with Title 63G, Chapter 4, Administrative
+460 Procedures Act.
+
+461 (4) "AOA" means the American Osteopathic Association.
+462 (5) "Associate physician" means an individual licensed under Section 58-68-302.5.
+463 (6) "Attempted sex change" means an attempt or effort to change an individual's body
+464 to present that individual as being of a sex or gender that is different from the individual's
+465 biological sex at birth.
+466 (7) "Biological sex at birth" means an individual's sex, as being male or female,
+467 according to distinct reproductive roles as manifested by:
+468 (a) sex and reproductive organ anatomy;
+469 (b) chromosomal makeup; and
+470 (c) endogenous hormone profiles.
+471 [(6)] (8) "Board" means the Osteopathic Physician and Surgeon's Licensing Board
+472 created in Section 58-68-201.
+473 [(7)] (9) "Collaborating physician" means an individual licensed under Section
+474 58-68-302 who enters into a collaborative practice arrangement with an associate physician.
+475 [(8)] (10) "Collaborative practice arrangement" means the arrangement described in
+476	Section 58-68-807.
+477 [(9)] (11) (a) "Cosmetic medical device" means tissue altering energy based devices
+478 that have the potential for altering living tissue and that are used to perform ablative or
+479 nonablative procedures, such as American National Standards Institute (ANSI) designated
+480 Class IIIb and Class IV lasers, intense pulsed light, radio frequency devices, and lipolytic
+481 devices and excludes ANSI designated Class IIIa and lower powered devices.
+482 (b) Notwithstanding Subsection [(9)(a)] (11)(a), if an ANSI designated Class IIIa and
+483 lower powered device is being used to perform an ablative procedure, the device is included in
+484 the definition of cosmetic medical device under Subsection [(9)(a)] (11)(a).
+485 [(10)] (12) "Cosmetic medical procedure":
+486 (a) includes the use of cosmetic medical devices to perform ablative or nonablative
+487 procedures; and
+
+488 (b) does not include a treatment of the ocular globe such as refractive surgery.
+489 [(11)] (13) "Diagnose" means:
+490 (a) to examine in any manner another person, parts of a person's body, substances,
+491 fluids, or materials excreted, taken, or removed from a person's body, or produced by a person's
+492 body, to determine the source, nature, kind, or extent of a disease or other physical or mental
+493 condition;
+494 (b) to attempt to conduct an examination or determination described under Subsection
+495	[(11)(a)] (13)(a);
+496 (c) to hold oneself out as making or to represent that one is making an examination or
+497 determination as described in Subsection [(11)(a)] (13)(a); or
+498 (d) to make an examination or determination as described in Subsection [(11)(a)]
+499 (13)(a) upon or from information supplied directly or indirectly by another person, whether or
+500 not in the presence of the person making or attempting the diagnosis or examination.
+501 [(12)] (14) "Medical assistant" means an unlicensed individual who may perform tasks
+502 as described in Subsection 58-68-305(6).
+503 [(13)] (15) "Medically underserved area" means a geographic area in which there is a
+504 shortage of primary care health services for residents, as determined by the Department of
+505 Health and Human Services.
+506 [(14)] (16) "Medically underserved population" means a specified group of people
+507 living in a defined geographic area with a shortage of primary care health services, as
+508 determined by the Department of Health and Human Services.
+509 [(15)] (17) (a) (i) "Nonablative procedure" means a procedure that is expected or
+510 intended to alter living tissue, but is not expected or intended to excise, vaporize, disintegrate,
+511 or remove living tissue.
+512 (ii) Notwithstanding Subsection [(15)(a)(i)] (17)(a)(i), nonablative procedure includes
+513 hair removal.
+514 (b) "Nonablative procedure" does not include:
+
+515 (i) a superficial procedure as defined in Section 58-1-102;
+516 (ii) the application of permanent make-up; or
+517 (iii) the use of photo therapy lasers for neuromusculoskeletal treatments that are
+518 [preformed] performed by an individual licensed under this title who is acting within the
+519 individual's scope of practice.
+520 [(16)] (18) "Physician" means both physicians and surgeons licensed under Section
+521 58-67-301, Utah Medical Practice Act, and osteopathic physicians and surgeons licensed under
+522 Section 58-68-301, Utah Osteopathic Medical Practice Act.
+523 [(17)] (19) (a) "Practice of osteopathic medicine" means:
+524 (i) to diagnose, treat, correct, administer anesthesia, or prescribe for any human
+525 disease, ailment, injury, infirmity, deformity, pain, or other condition, physical or mental, real
+526 or imaginary, or to attempt to do so, by any means or instrumentality, which in whole or in part
+527 is based upon emphasis of the importance of the musculoskeletal system and manipulative
+528 therapy in the maintenance and restoration of health, by an individual in Utah or outside of the
+529 state upon or for any human within the state;
+530 (ii) when a person not licensed as a physician directs a licensee under this chapter to
+531 withhold or alter the health care services that the licensee has ordered;
+532 (iii) to maintain an office or place of business for the purpose of doing any of the acts
+533 described in Subsection [(17)(a)] (19)(a)(i) or (ii) whether or not for compensation; or
+534 (iv) to use, in the conduct of any occupation or profession pertaining to the diagnosis or
+535 treatment of human diseases or conditions, in any printed material, stationery, letterhead,
+536 envelopes, signs, or advertisements, the designation "doctor," "doctor of osteopathic medicine,"
+537 "osteopathic physician," "osteopathic surgeon," "osteopathic physician and surgeon," "Dr.,"
+538 "D.O.," or any combination of these designations in any manner which might cause a
+539 reasonable person to believe the individual using the designation is a licensed osteopathic
+540 physician, and if the party using the designation is not a licensed osteopathic physician, the
+541 designation must additionally contain the description of the branch of the healing arts for which
+
+542 the person has a license, provided that an individual who has received an earned degree of
+543 doctor of osteopathic medicine but is not a licensed osteopathic physician and surgeon in Utah
+544 may use the designation "D.O." if it is followed by "Not Licensed" or "Not Licensed in Utah"
+545 in the same size and style of lettering.
+546 (b) The practice of osteopathic medicine does not include:
+547 (i) except for an ablative medical procedure as provided in Subsection [(17)(b)(ii)]
+548 (19)(b)(ii), the conduct described in Subsection [(17)(a)(i)] (19)(a)(i) that is performed in
+549 accordance with a license issued under another chapter of this title;
+550 (ii) an ablative cosmetic medical procedure if the scope of practice for the person
+551 performing the ablative cosmetic medical procedure includes the authority to operate or
+552 perform a surgical procedure; or
+553 (iii) conduct under Subsection 58-68-501(2).
+554 [(18)] (20) "Prescription device" means an instrument, apparatus, implement, machine,
+555 contrivance, implant, in vitro reagent, or other similar or related article, and any component
+556 part or accessory, which is required under federal or state law to be prescribed by a practitioner
+557 and dispensed by or through a person or entity licensed under this chapter or exempt from
+558 licensure under this chapter.
+559 [(19)] (21) "Prescription drug" means a drug that is required by federal or state law or
+560 rule to be dispensed only by prescription or is restricted to administration only by practitioners.
+561 (22) (a) "Primary sex characteristic surgical procedure" means any of the following if
+562 done for the purpose of effectuating or facilitating an individual's attempted sex change:
+563 (i) for an individual whose biological sex at birth is male, castration, orchiectomy,
+564 penectomy, vaginoplasty, or vulvoplasty;
+565 (ii) for an individual whose biological sex at birth is female, hysterectomy,
+566 oophorectomy, metoidioplasty, or phalloplasty; or
+567 (iii) any surgical procedure that is related to or necessary for a procedure described in
+568 Subsection (22)(a)(i) or (ii), that would result in the sterilization of an individual who is not
+
+569 sterile.
+570 (b) "Primary sex characteristic surgical procedure" does not include:
+571 (i) surgery or other procedures or treatments performed on an individual who:
+572 (A) is born with external biological sex characteristics that are irresolvably ambiguous;
+573 (B) is born with 46, XX chromosomes with virilization;
+574 (C) is born with 46, XY chromosomes with undervirilization;
+575 (D) has both ovarian and testicular tissue; or
+576 (E) has been diagnosed by a physician, based on genetic or biochemical testing, with a
+577 sex development disorder characterized by abnormal sex chromosome structure, sex steroid
+578 hormone production, or sex steroid hormone action for a male or female; or
+579 (ii) removing a body part:
+580 (A) because the body part is cancerous or diseased; or
+581 (B) for a reason that is medically necessary, other than to effectuate or facilitate an
+582 individual's attempted sex change.
+583 (23) (a) "Secondary sex characteristic surgical procedure" means any of the following
+584 if done for the purpose of effectuating or facilitating an individual's attempted sex change:
+585 (i) for an individual whose biological sex at birth is male, breast augmentation surgery,
+586 chest feminization surgery, or facial feminization surgery; or
+587 (ii) for an individual whose biological sex at birth is female, mastectomy, breast
+588 reduction surgery, chest masculinization surgery, or facial masculinization surgery.
+589 (b) "Secondary sex characteristic surgical procedure" does not include:
+590 (i) surgery or other procedures or treatments performed on an individual who:
+591 (A) is born with external biological sex characteristics that are irresolvably ambiguous;
+592 (B) is born with 46, XX chromosomes with virilization;
+593 (C) is born with 46, XY chromosomes with undervirilization;
+594 (D) has both ovarian and testicular tissue; or
+595 (E) has been diagnosed by a physician, based on genetic or biochemical testing, with a
+
+596 sex development disorder characterized by abnormal sex chromosome structure, sex steroid
+597 hormone production, or sex steroid hormone action for a male or female; or
+598 (ii) removing a body part:
+599 (A) because the body part is cancerous or diseased; or
+600 (B) for a reason that is medically necessary, other than to effectuate or facilitate an
+601 individual's attempted sex change.
+602 [(20)] (24) "SPEX" means the Special Purpose Examination of the Federation of State
+603 Medical Boards.
+604 [(21)] (25) "Unlawful conduct" means the same as that term is defined in Sections
+605	58-1-501 and 58-68-501.
+606 [(22)] (26) "Unprofessional conduct" means the same as that term is defined in
+607 Sections 58-1-501 and 58-68-502 and as may be further defined by division rule.
+608 Section 7. Section 58-68-502 is amended to read:
+609 58-68-502. Unprofessional conduct.
+610 (1) "Unprofessional conduct" includes, in addition to the definition in Section
+611	58-1-501:
+612 (a) using or employing the services of any individual to assist a licensee in any manner
+613 not in accordance with the generally recognized practices, standards, or ethics of the
+614 profession, state law, or division rule;
+615 (b) violating the dispensing requirements of Chapter 17b, Part 8, Dispensing Medical
+616 Practitioner and Dispensing Medical Practitioner Clinic Pharmacy, if applicable;
+617 (c) making a material misrepresentation regarding the qualifications for licensure under
+618	Section 58-68-302.5;
+619 (d) violating the requirements of Title 26, Chapter 61a, Utah Medical Cannabis Act;
+620 [or]
+621 (e) falsely making an entry in, or altering, a medical record with the intent to conceal:
+622 (i) a wrongful or negligent act or omission of an individual licensed under this chapter
+
+623 or an individual under the direction or control of an individual licensed under this chapter; or
+624 (ii) conduct described in Subsections (1)(a) through (d) or Subsection 58-1-501(1)[.];
+
+625 or
+626 (f) performing, or causing to be performed, upon an individual who is less than 18
+627 years old:
+628 (i) a primary sex characteristic surgical procedure; or
+629 (ii) a secondary sex characteristic surgical procedure.
+630 (2) "Unprofessional conduct" does not include:
+631 (a) in compliance with Section 58-85-103:
+632 (i) obtaining an investigational drug or investigational device;
+633 (ii) administering the investigational drug to an eligible patient; or
+634 (iii) treating an eligible patient with the investigational drug or investigational device;
+635 or
+636 (b) in accordance with Title 26, Chapter 61a, Utah Medical Cannabis Act:
+637 (i) when registered as a qualified medical provider or acting as a limited medical
+638 provider, as those terms are defined in Section 26-61a-102, recommending the use of medical
+639 cannabis;
+640 (ii) when registered as a pharmacy medical provider, as that term is defined in Section
+641 26-61a-102, providing pharmacy medical provider services in a medical cannabis pharmacy; or
+642 (iii) when registered as a state central patient portal medical provider, as that term is
+643 defined in Section 26-61a-102, providing state central patient portal medical provider services.
+644 (3) Notwithstanding Subsection (2)(b), the division, in consultation with the board and
+645 in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, shall define
+646 unprofessional conduct for a physician described in Subsection (2)(b).
+647 Section 8. Section 78B-3-427 is enacted to read:
+648 78B-3-427. Transgender procedures upon a minor -- Right of action -- Informed
+649 consent requirements -- Statute of limitations.
+
+650 (1) As used in this section:
+651 (a) "Hormonal transgender treatment" means the same as that term is defined in
+652	Section 58-1-603.
+
+653 (b) "Minor" means the same as that term is defined in Section 58-1-603.
+
+654 (2) (a) Notwithstanding any other provision of law, a malpractice action against a
+655 health care provider may be brought against a health care provider for damages arising from:
+656 (i) providing a hormonal transgender treatment to a minor without complying with the
+657 requirements described in Section 58-1-603;
+
+658 (ii) negligence in providing a hormonal transgender treatment to a minor; or
+659 (iii) providing a treatment or procedure described in Subsection (2)(b)(ii) to a minor
+660 without the minor's consent including if the minor disaffirms consent under Subsection (3).
+661 (3) (a) Notwithstanding any other provision of law, an individual who gave informed
+662 consent as a minor or for whom consent was given under Section 78B-3-406, may disaffirm the
+663 consent if:
+664 (i) the treatment at issue began after the effective date of this bill;
+665 (ii) the consent was provided for any of the following:
+666 (A) a hormonal transgender treatment;
+667 (B) a primary sex characteristic surgical procedure as defined in Section 58-67-102; or
+668 (C) a secondary sex characteristic surgical procedure as defined in Section 58-67-102;
+
+669 (iii) under the totality of the circumstances, a health care provider would have reason to
+670 believe that the minor, or a similarly situated minor, could later regret having given consent;
+671 (iv) the individual suffered a permanent physical injury; and
+672 (v) the consent is disaffirmed in writing before the individual reaches the age of 25
+673 years old.
+674 (b) A disaffirmation of consent under this Subsection (3) relates back to the day the
+675 original consent was given.
+676 (4) Notwithstanding any other provision of law, a malpractice action against a health
+
+677 care provider described in Subsection (2)(a) may be brought before the patient is 25 years old if
+678 the treatment at issue in the malpractice action began, occurred, or continued on or after the
+679 effective date of this bill.
+680 (5) Sections 78B-3-404 and 78B-3-406 do not apply to an action described in this
+681 section.
+
+682 Section 9. Effective date.
+683 If approved by two-thirds of all the members elected to each house, this bill takes effect
+
+684 upon approval by the governor, or the day following the constitutional time limit of Utah
+685 Constitution, Article VII, Section 8, without the governor's signature, or in the case of a veto,
+686 the date of veto override.
+687 Section 10. Revisor instructions.
+688 The Legislature intends that the Office of Legislative Research and General Counsel, in
+689 preparing the Utah Code database for publication, replace each instance of the phrase "the
+690 effective date of this bill" with the bill's actual effective date in the following Utah Code
+691 sections:
+692	(1) Section 58-1-603.1; and
+693	(2) Section 78B-3-427.
+
+
+
+
+
+
+
+
+

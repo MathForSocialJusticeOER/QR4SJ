@@ -1,0 +1,279 @@
+Enrolled Copy	S.B. 93
+
+
+1 BIRTH CERTIFICATE MODIFICATIONS
+2 2023 GENERAL SESSION
+3 STATE OF UTAH
+4 Chief Sponsor: Daniel McCay
+5 House Sponsor: Brady Brammer
+6
+7 LONG TITLE
+8 General Description:
+9 This bill enacts provisions regarding amending birth certificates.
+10 Highlighted Provisions:
+11 This bill:
+12 ?	modifies the rulemaking authority of the Department of Health and Human Services
+13 (department) regarding when an error or omission to a vital record may be
+14 corrected;
+15 ?	allows the department to amend a birth certificate without a court order under
+16 certain circumstances;
+17 ?	creates the procedure a court must follow to grant a petition to amend the sex
+18 designation of a birth certificate;
+19 ?	requires the court to appoint a guardian ad litem before granting a petition to amend
+20 the sex designation of a birth certificate;
+21 ?	requires the department to issue an amended birth certificate that does not identify
+22 the fields that were amended; and
+23 ?	requires the department to issue an amendment history with a birth certificate.
+24 Money Appropriated in this Bill:
+25 None
+26 Other Special Clauses:
+27 This bill provides a special effective date.
+28 This bill provides a coordination clause.
+
+29 Utah Code Sections Affected:
+30 AMENDS:
+31 26-2-2, as last amended by Laws of Utah 2022, Chapter 415
+32 26-2-7, as last amended by Laws of Utah 2022, Chapter 231
+33 REPEALS AND REENACTS:
+34 26-2-11, as last amended by Laws of Utah 1995, Chapter 202
+35
+36 Be it enacted by the Legislature of the state of Utah:
+37 Section 1. Section 26-2-2 is amended to read:
+38 26-2-2.  Definitions.
+39 As used in this chapter:
+40 (1) "Adoption document" means an adoption-related document filed with the office, a
+41 petition for adoption, a decree of adoption, an original birth certificate, or evidence submitted
+42 in support of a supplementary birth certificate.
+43 (2) "Biological sex at birth" means an individual's sex, as being male or female,
+44 according to distinct reproductive roles as manifested by sex and reproductive organ anatomy,
+45 chromosomal makeup, and endogenous hormone profiles.
+46 [(2)] (3) "Certified nurse midwife" means an individual who:
+47 (a) is licensed to practice as a certified nurse midwife under Title 58, Chapter 44a,
+48 Nurse Midwife Practice Act; and
+49 (b) has completed an education program regarding the completion of a certificate of
+50 death developed by the department by rule made in accordance with Title 63G, Chapter 3, Utah
+51 Administrative Rulemaking Act.
+52 [(3)] (4) "Custodial funeral service director" means a funeral service director who:
+53 (a) is employed by a licensed funeral establishment; and
+54 (b) has custody of a dead body.
+55 [(4)] (5) "Dead body" or "decedent" means a human body or parts of the human body
+
+56 from the condition of which it reasonably may be concluded that death occurred.
+57 [(5)] (6) "Dead fetus" means a product of human conception, other than those
+58 circumstances described in Subsection 76-7-301(1):
+59 (a) of 20 weeks' gestation or more, calculated from the date the last normal menstrual
+60 period began to the date of delivery; and
+61 (b) that was not born alive.
+62 [(6)] (7) "Declarant father" means a male who claims to be the genetic father of a child,
+63 and, along with the biological mother, signs a voluntary declaration of paternity to establish the
+64 child's paternity.
+65 [(7)] (8) "Dispositioner" means:
+66 (a) a person designated in a written instrument, under Subsection 58-9-602(1), as
+67 having the right and duty to control the disposition of the decedent, if the person voluntarily
+68 acts as the dispositioner; or
+69 (b) the next of kin of the decedent, if:
+70 (i) (A) a person has not been designated as described in Subsection [(7)] (8)(a); or
+71 (B) the person described in Subsection [(7)] (8)(a) is unable or unwilling to exercise
+72 the right and duty described in Subsection [(7)] (8)(a); and
+73 (ii) the next of kin voluntarily acts as the dispositioner.
+74 [(8)] (9) "Fetal remains" means:
+75 (a) an aborted fetus as that term is defined in Section 26-21-33; or
+76 (b) a miscarried fetus as that term is defined in Section 26-21-34.
+77 [(9)] (10) "File" means the submission of a completed certificate or other similar
+78 document, record, or report as provided under this chapter for registration by the state registrar
+79 or a local registrar.
+80 [(10)] (11) "Funeral service director" means the same as that term is defined in Section
+81	58-9-102.
+82	[(11)] (12) "Health care facility" means the same as that term is defined in Section
+
+83	26-21-2.
+84 [(12)] (13) "Health care professional" means a physician, physician assistant, nurse
+85 practitioner, or certified nurse midwife.
+86 (14) "Intersex individual" means an individual who:
+87 (a) is born with external biological sex characteristics that are irresolvably ambiguous;
+88 (b) is born with 46, XX chromosomes with virilization;
+89 (c) is born with 46, XY chromosomes with undervirilization;
+90 (d) has both ovarian and testicular tissue; or
+91 (e) has been diagnosed by a physician, based on genetic or biochemical testing, with
+92 abnormal:
+93 (i) sex chromosome structure;
+94 (ii) sex steroid hormone production; or
+95 (iii) sex steroid hormone action for a male or female.
+96 [(13)] (15) "Licensed funeral establishment" means:
+97 (a) if located in Utah, a funeral service establishment, as that term is defined in Section
+98 58-9-102, that is licensed under Title 58, Chapter 9, Funeral Services Licensing Act; or
+99 (b) if located in a state, district, or territory of the United States other than Utah, a
+100 funeral service establishment that complies with the licensing laws of the jurisdiction where the
+101 establishment is located.
+102 [(14)] (16) "Live birth" means the birth of a child who shows evidence of life after the
+103 child is entirely outside of the mother.
+104 [(15)] (17) "Local registrar" means a person appointed under Subsection 26-2-3(3)(b).
+105 [(16)] (18) "Nurse practitioner" means an individual who:
+106 (a) is licensed to practice as an advanced practice registered nurse under Title 58,
+107 Chapter 31b, Nurse Practice Act; and
+108 (b) has completed an education program regarding the completion of a certificate of
+109 death developed by the department by administrative rule made in accordance with Title 63G,
+
+110 Chapter 3, Utah Administrative Rulemaking Act.
+111 [(17)] (19) "Office" means the Office of Vital Records and Statistics within the
+112 Department of Health, operating under Title 26, Chapter 2, Utah Vital Statistics Act.
+113 [(18)] (20) "Physician" means a person licensed to practice as a physician or osteopath
+114 in this state under Title 58, Chapter 67, Utah Medical Practice Act, or Title 58, Chapter 68,
+115 Utah Osteopathic Medical Practice Act.
+116 [(19)] (21) "Physician assistant" means an individual who:
+117 (a) is licensed to practice as a physician assistant under Title 58, Chapter 70a, Utah
+118 Physician Assistant Act; and
+119 (b) has completed an education program regarding the completion of a certificate of
+120 death developed by the department by administrative rule made in accordance with Title 63G,
+121 Chapter 3, Utah Administrative Rulemaking Act.
+122 [(20)] (22) "Presumed father" means the father of a child conceived or born during a
+123 marriage as defined in Section 30-1-17.2.
+124 [(21)] (23) "Registration" or "register" means acceptance by the local or state registrar
+125 of a certificate and incorporation of the certificate into the permanent records of the state.
+126 [(22)] (24) "State registrar" means the state registrar of vital records appointed under
+127	Subsection 26-2-3(2)(e).
+128 [(23)] (25) "Vital records" means:
+129 (a) registered certificates or reports of birth, death, fetal death, marriage, divorce,
+130 dissolution of marriage, or annulment;
+131 (b) amendments to any of the registered certificates or reports described in Subsection
+132	[(23)] (25)(a);
+133 (c) an adoption document; and
+134 (d) other similar documents.
+135 [(24)] (26) "Vital statistics" means the data derived from registered certificates and
+136 reports of birth, death, fetal death, induced termination of pregnancy, marriage, divorce,
+
+137 dissolution of marriage, or annulment.
+138 Section 2. Section 26-2-7 is amended to read:
+139 26-2-7.  Correction of errors or omissions in vital records -- Conflicting birth and
+140 foundling certificates -- Administrative birth certificate amendment -- Rulemaking.
+141 (1) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
+142 Act, the department may make rules:
+143 [(1)] (a) governing applications to correct alleged errors or omissions on any vital
+144 record;
+145 [(2)] (b) establishing procedures to resolve conflicting birth and foundling certificates;
+146 [and]
+147 [(3)] (c) allowing for the correction and reissuance of a vital record that was originally
+148 created omitting a diacritical mark[.]; and
+149 (d) notwithstanding any other provision of law, allowing for the change of a child's
+150 name on the child's birth certificate within one year from the day the child is born.
+151 (2) For a birth certificate, the department may correct an error or omission under
+152 Subsection (1)(a) if:
+153 (a) the error or omission is a result of a scrivener's error or a data entry error; and
+154 (b) the department receives:
+155 (i) (A) an affidavit from the applicant attesting that there is an error on the birth
+156 certificate;
+157 (B) supporting documentation from the health care facility or attending health care
+158 provider; and
+159 (C) an affidavit from the health care facility or health care provider described in
+160 Subsection (2)(b)(i)(B) attesting to the accuracy of the supporting documentation; or
+161 (ii) documentation deemed sufficient by the state registrar to establish the facts of the
+162 error or omission.
+163 (3) The department may amend a birth certificate's sex designation for an intersex
+
+164 individual at the request of the individual or the guardian of the individual if:
+165 (a) the sex designation indicating the biological sex at birth of the individual was
+166 misidentified on the original certificate due to the individual's condition; and
+167 (b) the department receives:
+168 (i) a correction affidavit attesting the individual is intersex;
+169 (ii) chromosomal, molecular, karyotypic, DNA, or genetic testing results that confirm
+170 the individual is intersex; and
+171 (iii) an affidavit from the health care facility, health care professional, or laboratory
+172 testing facility that conducted the test or analyzed the test results, attesting to the test results
+173 and accuracy.
+174 Section 3. Section 26-2-11 is repealed and reenacted to read:
+175 26-2-11.  Birth certificate name or sex designation change -- Registration of court
+176 order and amendment of birth certificate.
+177 (1) An individual may obtain a court order in accordance with Title 42, Names, to
+178 change the name on the individual's birth certificate.
+179 (2) (a) A court may grant a petition ordering a sex designation change on a birth
+180 certificate if the court determines by clear and convincing evidence that the individual seeking
+181 the sex designation change:
+182 (i) is not involved in any kind of lawsuit;
+183 (ii) is not on probation or parole;
+184 (iii) is not seeking the amendment:
+185 (A) to commit a crime;
+186 (B) to interfere with the rights of others;
+187 (C) to avoid creditors;
+188 (D) to influence the sentence, fine, or conditions of imprisonment in a criminal case;
+189 (E) to commit fraud on the public; or
+190 (F) for any other fraudulent purpose;
+
+191 (iv) has transitioned from the sex designation of the biological sex at birth to the sex
+192 sought in the petition;
+193 (v) has outwardly expressed as the sex sought in the petition in a consistent and
+194 uniform manner for at least six months; and
+195 (vi) suffers from clinically significant distress or impairment due to the current sex
+196 designation on the birth certificate.
+197 (b) The court shall consider the following when making the determination described in
+198 Subsection (2)(a)(iv):
+199 (i) evidence of medical history, care, or treatment related to sex transitioning; and
+200 (ii) evidence that the sex sought in the petition is sincerely held and part of the
+201 individual's core identity.
+202 (3) (a) (i) When determining whether to grant a sex designation change for a child who
+203 is at least 15 years and six months old, unless the child is emancipated, the court shall appoint,
+204 notwithstanding Subsection 78A-2-703(1), a guardian ad litem for the child.
+205 (ii) Notwithstanding Subsection 78A-2-703(7), the child's parent or guardian is
+206 responsible for the costs of the guardian ad litem's services unless the court determines the
+207 parent or guardian is indigent in accordance with Section 78A-2-302.
+
+208 (b) The guardian ad litem shall provide the court relevant evidence, whether submitted
+209 by the child or other sources of evidence, regarding the following:
+210 (i) whether the child is capable of making decisions with long-term consequences
+211 independently of the child's parent or guardian;
+212 (ii) whether the child is mature and capable of appreciating the implications of the
+213 decision to change the sex designation on the child's birth certificate; and
+214 (iii) whether the child meets the other requirements of this section.
+215 (c) The guardian of a child described in Subsection (3)(a) shall:
+216 (i) give notice of the proceeding to any known parent of the child; and
+217 (ii) provide the court with a declaration of the status of any divorce or custody matter
+
+218 pertaining to the child, including the case name, case number, court, judge, and current status
+219 of the case.
+220 (d) The court shall:
+221 (i) consider any objection given by a parent;
+222 (ii) close the hearing on a petition for a sex designation change;
+223 (iii) receive all evidence; and
+224 (iv) make a determination as to whether:
+225 (A) all of the requirements of Subsection (2) have been met; and
+226 (B) the evidence supports a finding by clear and convincing evidence that the sex
+227 designation change is in the best interest of the child and would not create a risk of harm to the
+228 minor.
+229 (4) (a) A court may not grant a petition for a sex designation change if:
+230 (i) the birth certificate is for a child who is younger than 15 years and six months old;
+231 or
+232 (ii) the child's parent or guardian with legal custody has not given permission.
+233 (b) An order granting a sex designation change under this section is not effective until
+234 the individual is at least 16 years old.
+235 (5) A petition for a sex designation under this section may be combined with a petition
+236 under Title 42, Names.
+237 (6) (a) Upon the receipt of a certified order granting a birth certificate amendment, any
+238 required application, and an appropriate fee, the department shall issue:
+239 (i) a birth certificate that does not indicate which fields were amended unless requested
+240 by the individual; and
+241 (ii) an amendment history of the birth certificate, including the fields of the birth
+242 certificate that have been amended and the date of the amendment.
+243 (b) The department shall retain a record of all amendments to a birth certificate,
+244 including any amendment history issued by the department.
+
+245 (7) The provisions of this section are severable.
+246 (8) This section only applies to birth certificates issued by the state.
+247 Section 4. Effective date.
+248 If approved by two-thirds of all the members elected to each house, this bill takes effect
+249 upon approval by the governor, or the day following the constitutional time limit of Utah
+250 Constitution, Article VII, Section 8, without the governor's signature, or in the case of a veto,
+251 the date of veto override.
+252 Section 5.  Coordinating S.B. 93 with H.B. 209 -- Substantive and technical
+253 amendments.
+254 If this S.B. 93 and H.B. 209, Participation in Extracurricular Activities Amendments,
+255 both pass and become law, it is the intent of the Legislature that the Office of Legislative
+256 Research and General Counsel shall prepare the Utah Code database for publication by
+257 replacing each reference to "birth certificate" in Section 53G-7-1102 with "birth certificate and
+258 birth certificate amendment history".
+
+
+
+
+
+
+
+
