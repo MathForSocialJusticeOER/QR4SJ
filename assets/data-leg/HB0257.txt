@@ -1,0 +1,3303 @@
+Enrolled Copy
+H.B. 257
+1
+SEX-BASED DESIGNATIONS FOR PRIVACY,
+2
+ANTI-BULLYING, AND WOMEN'S OPPORTUNITIES
+3
+2024 GENERAL SESSION
+4
+STATE OF UTAH
+5
+Chief Sponsor: Kera Birkeland
+6
+Senate Sponsor: Daniel McCay
+7
+8
+LONG TITLE
+9
+General Description:
+10
+This bill establishes a standard regarding distinctions on the basis of sex and applies the
+11
+standard in certain facilities and opportunities where designations on the basis of sex
+12
+address individual privacy, bullying, and women's opportunities.
+
+13
+Highlighted Provisions:
+14
+This bill:
+15
+< defines terms;
+16
+< defines certain terms for the entire Utah Code;
+17
+< establishes a legal standard for distinctions on the basis of sex in certain publicly
+18
+owned or controlled circumstances;
+19
+< establishes acceptable and prohibited distinctions on the basis of sex;
+20
+< enacts provisions regarding sex-designated restroom, shower, or locker room
+21
+22
+23
+24
+25
+26
+27
+28
+29
+facilities that students use within the public education system;
+< requires local education agencies to establish a privacy plan with parents and
+students in certain cases to address gender identity and fear of bullying;
+< enacts provisions regarding sex-designated shower or locker room facilities where
+the general public has an expectation of privacy;
+< establishes components of the crimes of voyeurism and criminal trespass for certain
+actions within a covered sex-designated shower or locker room;
+< requires government entities to:
+C
+report allegations of certain criminal offenses to law enforcement;
+H.B. 257
+Enrolled Copy
+30
+C
+adopt a privacy compliance plan;
+31
+C
+provide a single-occupant facility in new construction; and
+32
+C
+consider the feasibility of certain retrofit or remodel projects;
+33
+< provides indemnification for government entities for certain claims;
+34
+< requires the state auditor to investigate government entity compliance with certain
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+requirements;
+< requires the attorney general to impose fines on political subdivisions that fail to
+cure noncompliance that the state auditor identifies;
+< amends certain crimes to establish a reasonable expectation of privacy in public
+restrooms, including enhanced penalties for:
+C
+committing multiple offenses concurrently within a public restroom, shower, or
+locker room; and
+C
+committing certain offenses within a public restroom, shower, or locker room
+that is designated for the opposite sex;
+< enacts a criminal offense for loitering in a restroom, shower, or locker room where
+the general public has an expectation of privacy;
+< establishes elements of the crime of emergency reporting abuse for making repeated
+47
+false reports alleging a violation of a sex-designation in a publicly owned or
+48
+controlled shower or locker room facility where the general public has an
+49
+expectation of privacy; and
+50
+51
+52
+53
+54
+< makes technical and conforming changes.
+Money Appropriated in this Bill:
+None
+Other Special Clauses:
+This bill provides a special effective date.
+
+55
+Utah Code Sections Affected:
+56
+AMENDS:
+57
+53G-6-1101, as enacted by Laws of Utah 2022, Chapter 398
+-2-
+Enrolled Copy
+H.B. 257
+58
+53G-8-211, as last amended by Laws of Utah 2023, Chapter 161
+59
+67-3-1, as last amended by Laws of Utah 2023, Chapters 16, 330, 353, and 480
+60
+67-5-1, as last amended by Laws of Utah 2023, Chapter 330
+61
+68-3-12.5, as last amended by Laws of Utah 2021, Chapter 93
+62
+76-6-206, as last amended by Laws of Utah 2023, Chapter 111
+63
+76-9-202, as last amended by Laws of Utah 2022, Chapter 161
+64
+76-9-702, as last amended by Laws of Utah 2023, Chapter 123
+65
+76-9-702.5, as last amended by Laws of Utah 2022, Chapter 185
+66
+76-9-702.7, as last amended by Laws of Utah 2023, Chapter 411
+67
+ENACTS:
+68
+63G-31-101, Utah Code Annotated 1953
+69
+63G-31-102, Utah Code Annotated 1953
+70
+63G-31-201, Utah Code Annotated 1953
+71
+63G-31-202, Utah Code Annotated 1953
+72
+63G-31-203, Utah Code Annotated 1953
+73
+63G-31-204, Utah Code Annotated 1953
+74
+63G-31-301, Utah Code Annotated 1953
+75
+63G-31-302, Utah Code Annotated 1953
+76
+63G-31-303, Utah Code Annotated 1953
+77
+63G-31-304, Utah Code Annotated 1953
+78
+63G-31-401, Utah Code Annotated 1953
+79
+63G-31-402, Utah Code Annotated 1953
+80
+76-9-702.8, Utah Code Annotated 1953
+81
+82
+Be it enacted by the Legislature of the state of Utah:
+83
+Section 1. Section 53G-6-1101 is amended to read:
+84
+53G-6-1101. Report -- Action plan.
+
+85
+(1) As used in this section:
+-3-
+H.B. 257
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+Enrolled Copy
+(a) "Gender-designated interscholastic sport" means a sport that is specifically
+designated for female or male students.
+(b) "Interscholastic sport" means an activity in which a student represents the student's
+school in the sport in competition against another school.
+(c) "School" means a public school that sponsors or offers an interscholastic sport in
+which students enrolled at the school may participate.
+(d) "Title IX" means Title IX of the Education Amendments of 1972, 20 U.S.C. Sec.
+1681 et seq.
+(2) Before the beginning of each academic year, the athletic director or another
+administrator of each school shall report to the school's local governing board regarding:
+(a) the number and type of interscholastic sports available at the school, categorized by
+gender designation;
+(b) the number of students competing in a gender-designated interscholastic sport at the
+school, categorized by gender;
+(c) the amount of spending that the school devotes to each gender-designated sport,
+reported in total amount and on a per-student basis;
+(d) a comparison and evaluation of designated practice and game locations in
+gender-designated interscholastic sports;
+(e) any information regarding the school's efforts in compliance with Title 63G,
+Chapter 31, Part 2, Distinctions on the Basis of Sex, and Title IX [compliance]; and
+(f) if there is a discrepancy between male-designated and female-designated sports of
+10% or greater, an action plan that the school develops to address the discrepancy.
+(3) An LEA governing board that receives the report described in Subsection (2) shall
+review the report in a public board meeting.
+
+110
+Section 2. Section 53G-8-211 is amended to read:
+111
+53G-8-211. Responses to school-based behavior.
+
+112
+(1) As used in this section:
+113
+(a) "Evidence-based" means a program or practice that has:
+-4-
+Enrolled Copy
+114
+115
+H.B. 257
+(i) had multiple randomized control studies or a meta-analysis demonstrating that the
+program or practice is effective for a specific population;
+116
+(ii) been rated as effective by a standardized program evaluation tool; or
+117
+(iii) been approved by the state board.
+
+118
+(b) "Habitual truant" means a school-age child who:
+119
+(i) is in grade 7 or above, unless the school-age child is under 12 years old;
+120
+(ii) is subject to the requirements of Section 53G-6-202; and
+121
+(iii) (A) is truant at least 10 times during one school year; or
+122
+(B) fails to cooperate with efforts on the part of school authorities to resolve the
+123
+school-age child's attendance problem as required under Section 53G-6-206.
+
+124
+(c) "Minor" means the same as that term is defined in Section 80-1-102.
+
+125
+(d) "Mobile crisis outreach team" means the same as that term is defined in Section
+126
+62A-15-102.
+
+127
+128
+(e) "Prosecuting attorney" means the same as that term is defined in Subsections
+80-1-102(65)(b) and (c).
+
+129
+130
+(f) "Restorative justice program" means a school-based program or a program used or
+adopted by a local education agency that is designed:
+131
+132
+(i) to enhance school safety, reduce school suspensions, and limit referrals to law
+enforcement agencies and courts; and
+133
+134
+(ii) to help minors take responsibility for and repair harmful behavior that occurs in
+school.
+
+135
+(g) "School administrator" means a principal of a school.
+
+136
+(h) "School is in session" means a day during which the school conducts instruction for
+137
+which student attendance is counted toward calculating average daily membership.
+
+138
+(i) "School resource officer" means a law enforcement officer, as defined in Section
+139
+53-13-103, who contracts with, is employed by, or whose law enforcement agency contracts
+140
+with a local education agency to provide law enforcement services for the local education
+141
+agency.
+
+-5-
+H.B. 257
+Enrolled Copy
+142
+(j) "School-age child" means the same as that term is defined in Section 53G-6-201.
+
+143
+(k) (i) "School-sponsored activity" means an activity, fundraising event, club, camp,
+144
+clinic, or other event or activity that is authorized by a specific local education agency or public
+145
+school, according to LEA governing board policy, and satisfies at least one of the following
+146
+conditions:
+147
+148
+(A) the activity is managed or supervised by a local education agency or public school,
+or local education agency or public school employee;
+149
+150
+(B) the activity uses the local education agency's or public school's facilities,
+equipment, or other school resources; or
+151
+152
+(C) the activity is supported or subsidized, more than inconsequentially, by public
+funds, including the public school's activity funds or Minimum School Program dollars.
+
+153
+154
+(ii) "School-sponsored activity" includes preparation for and involvement in a public
+performance, contest, athletic competition, demonstration, display, or club activity.
+
+155
+156
+(l) (i) "Status offense" means an offense that would not be an offense but for the age of
+the offender.
+
+157
+158
+159
+160
+(ii) "Status offense" does not mean an offense that by statute is a misdemeanor or
+felony.
+(2) This section applies to a minor enrolled in school who is alleged to have committed
+an offense on school property where the student is enrolled:
+161
+(a) when school is in session; or
+162
+(b) during a school-sponsored activity.
+
+163
+(3) If a minor is alleged to have committed an offense on school property that is a class
+164
+C misdemeanor, an infraction, or a status offense, the school administrator, the school
+165
+administrator's designee, or a school resource officer may refer the minor:
+166
+(a) to an evidence-based alternative intervention, including:
+167
+(i) a mobile crisis outreach team;
+168
+(ii) a youth services center, as defined in Section 80-5-102;
+169
+(iii) a youth court or comparable restorative justice program;
+-6-
+Enrolled Copy
+170
+171
+H.B. 257
+(iv) an evidence-based alternative intervention created and developed by the school or
+school district;
+172
+(v) an evidence-based alternative intervention that is jointly created and developed by a
+173
+local education agency, the state board, the juvenile court, local counties and municipalities,
+174
+the Department of Health and Human Services; or
+175
+176
+(vi) a tobacco cessation or education program if the offense is a violation of Section
+76-10-105; or
+177
+(b) for prevention and early intervention youth services, as described in Section
+178
+80-5-201, by the Division of Juvenile Justice Services if the minor refuses to participate in an
+179
+evidence-based alternative intervention described in Subsection (3)(a).
+
+180
+(4) Except as provided in Subsection (5), if a minor is alleged to have committed an
+181
+offense on school property that is a class C misdemeanor, an infraction, or a status offense, a
+182
+school administrator, the school administrator's designee, or a school resource officer may refer
+183
+a minor to a law enforcement officer or agency or a court only if:
+184
+185
+(a) the minor allegedly committed the same offense on school property on two previous
+occasions; and
+186
+(b) the minor was referred to an evidence-based alternative intervention, or to
+187
+prevention or early intervention youth services, as described in Subsection (3) for both of the
+188
+two previous offenses.
+
+189
+(5) If a minor is alleged to have committed a traffic offense that is an infraction, a
+190
+school administrator, the school administrator's designee, or a school resource officer may refer
+191
+the minor to a law enforcement officer or agency, a prosecuting attorney, or a court for the
+192
+traffic offense.
+
+193
+(6) Notwithstanding Subsection (4), a school resource officer may:
+194
+(a) investigate possible criminal offenses and conduct, including conducting probable
+195
+cause searches;
+196
+197
+(b) consult with school administration about the conduct of a minor enrolled in a
+school;
+-7-
+H.B. 257
+198
+199
+Enrolled Copy
+(c) transport a minor enrolled in a school to a location if the location is permitted by
+law;
+200
+(d) take temporary custody of a minor in accordance with Section 80-6-201; or
+201
+(e) protect the safety of students and the school community, including the use of
+202
+reasonable and necessary physical force when appropriate based on the totality of the
+203
+circumstances.
+
+204
+(7) (a) If a minor is referred to a court or a law enforcement officer or agency under
+205
+Subsection (4), the school or the school district shall appoint a school representative to
+206
+continue to engage with the minor and the minor's family through the court process.
+
+207
+208
+209
+210
+(b) A school representative appointed under Subsection (7)(a) may not be a school
+resource officer.
+(c) A school district or school shall include the following in the school district's or
+school's referral to the court or the law enforcement officer or agency:
+211
+(i) attendance records for the minor;
+212
+(ii) a report of evidence-based alternative interventions used by the school before the
+213
+214
+215
+216
+referral, including outcomes;
+(iii) the name and contact information of the school representative assigned to actively
+participate in the court process with the minor and the minor's family;
+(iv) if the minor was referred to prevention or early intervention youth services under
+217
+Subsection (3)(b), a report from the Division of Juvenile Justice Services that demonstrates the
+218
+minor's failure to complete or participate in prevention and early intervention youth services
+219
+under Subsection (3)(b); and
+220
+(v) any other information that the school district or school considers relevant.
+
+221
+(d) A minor referred to a court under Subsection (4) may not be ordered to or placed in
+222
+secure detention, including for a contempt charge or violation of a valid court order under
+223
+Section 78A-6-353, when the underlying offense is a status offense or infraction.
+
+224
+225
+(e) If a minor is referred to a court under Subsection (4), the court may use, when
+available, the resources of the Division of Juvenile Justice Services or the Division of
+-8-
+Enrolled Copy
+226
+H.B. 257
+Substance Abuse and Mental Health to address the minor.
+
+227
+(8) If a minor is alleged to have committed an offense on school property that is a class
+228
+B misdemeanor or a class A misdemeanor, the school administrator, the school administrator's
+229
+designee, or a school resource officer may refer the minor directly to a court or to the
+230
+evidence-based alternative interventions in Subsection (3)(a).
+
+231
+(9) A school administrator, a school administrator's designee, and a school resource
+232
+officer retain the discretion described under this section in relation to Title 63G, Chapter 31,
+233
+Distinctions on the Basis of Sex.
+
+234
+Section 3. Section 63G-31-101 is enacted to read:
+235
+CHAPTER 31. Distinctions on the Basis of Sex
+236
+Part 1. General Provisions
+237
+63G-31-101. Definitions.
+
+238
+As used in this chapter:
+239
+(1) (a) "Changing room" means a space designated for multiple individuals to dress or
+240
+undress within the same space.
+
+241
+(b) "Changing room" includes:
+242
+(i) a dressing room, fitting room, locker room, or shower room; and
+243
+(ii) a restroom when a changing room contains or is attached to the restroom.
+
+244
+(2) (a) "Facility" means a publicly owned or controlled building, structure, or other
+245
+246
+247
+improvement.
+(b) "Facility" includes a subset of a publicly owned or controlled building, structure, or
+other improvement, including a restroom or locker room.
+
+248
+(3) "Government entity" means:
+249
+(a) the state; or
+250
+(b) any county, municipality, special district, special service district, or other political
+251
+subdivision or administrative unit of the state, including:
+252
+(i) a state institution of higher education as defined in Section 53B-2-101; or
+253
+(ii) a local education agency as defined in Section 53G-7-401.
+
+-9-
+H.B. 257
+Enrolled Copy
+254
+(4) "Intersex individual" means the same as that term is defined in Section 26B-8-101.
+
+255
+(5) "Men's restroom" means a restroom that is designated for the exclusive use of
+256
+males and not females.
+
+257
+(6) (a) "Open to the general public" means that a privacy space is:
+258
+(i) freely accessible to a member of the general public;
+259
+(ii) accessible to an individual who has purchased a ticket, paid an entry fee, paid a
+260
+membership fee, or otherwise paid to access the facility containing the relevant privacy space;
+261
+or
+262
+263
+(iii) accessible to a student of an institution of higher education described in Section
+52B-2-101, either freely or as described in Subsection (6)(a)(ii).
+
+264
+(b) "Open to the general public" does not include a privacy space that is:
+265
+(i) only accessible to employees of a government entity; or
+266
+(ii) any area that is not normally accessible to the public.
+
+267
+(7) "Privacy space" means a restroom or changing room within a publicly owned or
+268
+269
+270
+controlled facility, where an individual has a reasonable expectation of privacy.
+(8) "Publicly owned or controlled" means that a government entity has at least a partial
+ownership interest in or has control of a facility, program, or event.
+
+271
+(9) (a) "Restroom" means any space that includes a toilet.
+
+272
+(b) "Restroom" includes:
+273
+(i) sex-designated men's restrooms;
+274
+(ii) sex-designated women's restrooms;
+275
+(iii) unisex restrooms; and
+276
+(iv) single-occupant restrooms.
+
+277
+(10) "Sex-designated" means that a facility, program, or event is designated specifically
+278
+279
+280
+281
+for males or females and not the opposite sex.
+(11) "Single-occupant" means, in relation to a single-occupant facility or privacy space,
+that the facility or privacy space:
+(a) has floor-to-ceiling walls;
+- 10 -
+Enrolled Copy
+H.B. 257
+282
+(b) has an entirely encased and locking door; and
+283
+(c) is designated for single occupancy.
+
+284
+(12) "Unisex" means, in relation to a unisex facility or privacy space, that the facility or
+285
+privacy space:
+286
+(a) is designated for the use of both sexes; or
+287
+(b) is not sex-designated.
+
+288
+(13) "Women's restroom" means a restroom that is designated for the exclusive use of
+289
+females and not males.
+
+290
+Section 4. Section 63G-31-102 is enacted to read:
+291
+63G-31-102. Severability.
+
+292
+(1) If any provision of this chapter or the application of any provision of this part to
+293
+any person or circumstance is held invalid by a final decision of a court of competent
+294
+jurisdiction, the remainder of this chapter shall be given effect without the invalidated
+295
+provision or application.
+
+296
+(2) The provisions of this chapter are severable.
+
+297
+Section 5. Section 63G-31-201 is enacted to read:
+298
+Part 2. Distinctions on the Basis of Sex
+299
+63G-31-201. Distinctions on the basis of sex.
+
+300
+(1) A government entity may not, on the basis of sex, exclude an individual from
+301
+participation in, deny an individual from the benefits of, or subject an individual to a sex-based
+302
+distinction in or under any government or otherwise publicly owned or controlled facility,
+303
+program, or event, unless the distinction is substantially related to an important government
+304
+objective.
+
+305
+306
+(2) Each government entity shall ensure the preservation of distinctions on the basis of
+sex that protect individual privacy and competitive opportunity, as described in this chapter.
+
+307
+308
+309
+(3) (a) As used in this Subsection (3), "athletic facility" does not include a privacy
+space.
+(b) To preserve the individual privacy and competitive opportunity of females, an
+- 11 -
+H.B. 257
+Enrolled Copy
+310
+individual is not entitled to and may not access, use, or benefit from a government entity's
+311
+athletic facility, program, or event if:
+312
+(i) the facility, program, or event is designated for females; and
+313
+(ii) the individual is not female.
+
+314
+(c) To preserve the individual privacy and competitive opportunity of males, an
+315
+individual is not entitled to and may not access, use, or benefit from a government entity's
+316
+athletic facility, program, or event if:
+317
+(i) the facility, program, or event is designated for males; and
+318
+(ii) the individual is not male.
+
+319
+Section 6. Section 63G-31-202 is enacted to read:
+320
+63G-31-202. Sex-based distinctions to protect individual privacy.
+
+321
+A distinction on the basis of sex that provides separate accommodations for the sexes is
+322
+substantially related to the important government objective of protecting individual privacy,
+323
+including in the following contexts:
+324
+(1) a privacy space; and
+325
+(2) a correctional facility as defined in Section 77-16b-102.
+
+326
+Section 7. Section 63G-31-203 is enacted to read:
+327
+63G-31-203. Sex-based distinctions to protect athletic health and competitive
+328
+329
+opportunity.
+A distinction on the basis of sex to provide separate accommodations for the sexes is
+330
+substantially related to the important government objective of protecting health and
+331
+competitive opportunity in the availability or quality of an athletic venue, event, or program
+332
+within the public education system.
+
+333
+Section 8. Section 63G-31-204 is enacted to read:
+334
+63G-31-204. Prohibited sex-based distinctions.
+
+335
+The following actions within the public education system constitute a violation of
+336
+337
+Section 63G-31-201:
+(1) providing a sex-designated facility, program, or event of a higher quality to one sex
+- 12 -
+Enrolled Copy
+H.B. 257
+338
+and of a lesser quality to the opposite sex rather than ensuring equivalent quality or rotational
+339
+sharing, including the use of athletic facilities or venues;
+340
+(2) providing males or females preferred or more advantageous scheduling of facilities,
+341
+programs, or events in comparison to the opposite sex rather than ensuring equivalent
+342
+scheduling practices or rotational sharing, including the scheduling of athletic events or
+343
+practices;
+344
+345
+346
+347
+348
+(3) providing males or females with more sex-designated opportunities than the
+opposite sex in excess of a 10% disparity;
+(4) requiring males or females to participate or compete against the opposite sex in any
+sex-designated facility, program, or event; or
+(5) requiring, giving official authorization for, or knowingly allowing males or females
+349
+to use a sex-designated facility in the presence of the opposite sex.
+
+350
+Section 9. Section 63G-31-301 is enacted to read:
+351
+Part 3. Sex-based Distinctions in Privacy Spaces
+352
+63G-31-301. Sex-designated privacy spaces in public schools.
+
+353
+(1) To preserve the individual privacy of male and female students in the public
+354
+education system, a student may only access an operational sex-designated privacy space
+355
+within a public school that is designated for student use if the student's sex corresponds with
+356
+the sex designation of the privacy space.
+
+357
+(2) For a student who makes a request to use a privacy space other than the
+358
+sex-designated privacy space that corresponds with the student's sex because of the student's
+359
+gender identity, as defined in Section 34A-5-102, or reasonable fear of bullying, the local
+360
+education agency, as defined in Section 53E-1-102, shall coordinate with the student's parent or
+361
+legal guardian to develop a privacy plan that provides the student with:
+362
+(a) (i) reasonable access to a unisex or single-occupant facility; or
+363
+(ii) reasonable access to a faculty or staff restroom; or
+364
+(b) if the access described in Subsection (2)(a) is unavailable, reasonable access to
+365
+private use of an otherwise sex-designated privacy space through staggered scheduling or
+- 13 -
+H.B. 257
+366
+367
+368
+Enrolled Copy
+another policy provision that provides for temporary private access.
+(3) An LEA satisfies the LEA's duties regarding student use of a privacy space under
+this chapter if the LEA:
+369
+(a) gives notice to students of the provisions of this section;
+370
+(b) takes administrative action to address violations of and promote compliance with
+371
+this section; and
+372
+(c) develops a privacy plan in accordance with Subsection (2).
+
+373
+(4) An individual may use the following evidence as a defense to an allegation that the
+374
+375
+student is not eligible to access and use a sex-designated privacy space under Subsection (1):
+(a) the student's unamended birth certificate that corresponds with the sex designation
+376
+of privacy space, which may be supported with a review of any amendment history obtained
+377
+under Section 26B-8-125; or
+378
+379
+(b) documentation of a medical treatment or procedure that is consistent only with the
+sex designation of the privacy space.
+
+380
+(5) Subsection (1) does not apply to:
+381
+(a) a unisex or single-occupant facility; or
+382
+(b) an intersex individual.
+
+383
+Section 10. Section 63G-31-302 is enacted to read:
+384
+63G-31-302. Sex-designated changing rooms in publicly owned facilities open to
+385
+386
+the general public.
+(1) (a) Except as provided in Subsection (1)(b), to preserve the individual privacy of
+387
+males and females, an individual may only access an operational sex-designated changing room
+388
+in a government entity's facility that is open to the general public if:
+389
+(i) the individual's sex corresponds with the sex designation of the changing room; or
+390
+(ii) the individual has:
+391
+(A) legally amended the individual's birth certificate to correspond with the sex
+392
+designation of the changing room, which may be supported with a review of any amendment
+393
+history obtained under Section 26B-8-125; and
+- 14 -
+Enrolled Copy
+394
+395
+H.B. 257
+(B) undergone a primary sex characteristic surgical procedure as defined in Section
+58-67-102 to correspond with the sex designation of the changing room.
+
+396
+(b) Subsection (1)(a) does not apply to:
+397
+(i) a minor child who requires assistance to access or use the changing room that
+398
+399
+corresponds with the sex of the minor's parent, guardian, or relative;
+(ii) a dependent minor, as defined in Section 76-5-110, or a dependent adult, as defined
+400
+in Section 76-5-111 who requires assistance to access or use the changing room that
+401
+corresponds with the sex of a caretaker;
+402
+403
+404
+405
+406
+407
+408
+409
+410
+(iii) an individual providing public safety services, including law enforcement,
+emergency medical services as defined in Section 26B-4-101, and fire protection;
+(iv) an employee of a health care facility, as defined in Section 26B-2-201, to provide
+health care services to a patient of the health care facility; or
+(v) an individual whose employment duties include the maintenance or cleaning of the
+changing room.
+(2) An individual in a changing room has a reasonable expectation of privacy,
+satisfying the privacy element of the offense of voyeurism in Section 76-9-702.7.
+(3) An individual who knowingly enters a changing room in violation of Subsection (1)
+411
+commits the offense of criminal trespass under Section 76-6-206 if the individual enters or
+412
+remains in the changing room under circumstances which a reasonable person would expect to
+413
+likely cause affront or alarm to, on, or in the presence of another individual.
+
+414
+(4) The surgical provision described in Subsection (1)(a)(ii) does not shield an
+415
+individual from the offense of lewdness related to genitalia under Subsection 76-9-202(3) or
+416
+76-9-202.5(4).
+
+417
+(5) An individual may use the following evidence as a defense against an allegation
+418
+that the individual is not eligible to access and use a sex-designated changing room under
+419
+Subsection (1):
+420
+421
+(a) for an individual whose birth sex corresponds with the sex designation of the
+changing room:
+- 15 -
+H.B. 257
+Enrolled Copy
+422
+(i) an individual's unamended birth certificate that corresponds with the sex
+423
+designation of the changing room, which may be supported with a review of any amendment
+424
+history obtained under Section 26B-8-125; or
+425
+426
+427
+428
+429
+430
+431
+432
+(ii) documentation of a medical treatment or procedure that is consistent only with the
+sex designation of the changing room; or
+(b) for an individual whose birth sex does not correspond with the sex designation of
+the changing room:
+(i) the individual's amended birth certificate, which may be supported with a review of
+any amendment history obtained under Section 26B-8-125; and
+(ii) documentation that demonstrates that the individual has undergone a primary sex
+characteristic surgical procedure as defined in Section 58-67-102.
+
+433
+(6) Subsection (1) does not apply to:
+434
+(a) a unisex or single-occupant facility;
+435
+(b) a changing room that is not open to the general public; or
+436
+(c) an intersex individual.
+
+437
+Section 11. Section 63G-31-303 is enacted to read:
+438
+63G-31-303. Unisex or single-occupant facilities.
+
+439
+The availability of a unisex facility or single-occupant facility satisfies a government
+440
+entity's obligations regarding an individual who, because of the individual's gender identity, as
+441
+defined in Section 34A-5-102, or reasonable fear of bullying, is uncomfortable using:
+442
+(1) for a student, a privacy space in accordance with Section 63G-31-301; or
+443
+(2) a changing room in accordance with Section 63G-31-302.
+
+444
+Section 12. Section 63G-31-304 is enacted to read:
+445
+63G-31-304. Government entity facility compliance.
+
+446
+(1) Except as provided under Section 53G-8-211, a government entity shall contact law
+447
+enforcement if the entity receives a complaint or allegation regarding the following within a
+448
+privacy space in a facility that is open to the general public:
+449
+(a) an offense of lewdness under Section 76-9-702;
+- 16 -
+Enrolled Copy
+H.B. 257
+450
+(b) an offense of lewdness involving a child under Section 76-9-702.5;
+451
+(c) voyeurism under Section 76-9-702.7;
+452
+(d) loitering in a privacy space under Section 76-9-702.8; or
+453
+(e) for a changing room described in Section 63G-31-302, an offense of criminal
+454
+trespass under Subsection 63G-31-302(2).
+
+455
+(2) To preserve the individual privacy of males and females in privacy spaces:
+456
+(a) a government entity shall adopt a privacy compliance plan to address compliance
+457
+458
+459
+with the government entity's duties under this chapter;
+(b) for construction of a new facility, a government entity shall ensure that the new
+construction includes a single-occupant facility; and
+460
+(c) for existing privacy spaces, a government entity:
+461
+(i) shall consider the feasibility of retrofitting or remodeling to include:
+462
+(A) floor-to-ceiling walls and doors or similar privacy protections;
+463
+(B) curtains; or
+464
+(C) other methods of improving individual privacy within the facility that are
+465
+466
+467
+468
+469
+470
+comparable to the methods described in Subsections (2)(a)(i) and (ii); and
+(ii) may reduce the number of fixtures that state law requires by up to 20% to provide
+adequate space for the retrofitting or remodeling described in Subsection (2)(a).
+(3) A government entity shall ensure sufficient sex-designated privacy spaces through
+compliance with Sections 15A-3-112 and 15A-3-304 regarding unisex facilities.
+Section 13. Section 63G-31-401 is enacted to read:
+471
+Part 4. Enforcement and Indemnification
+472
+63G-31-401. Government entity noncompliance.
+
+473
+(1) The state auditor shall:
+474
+(a) establish a process to receive and investigate alleged violations of this chapter by a
+475
+government entity;
+476
+(b) provide notice to the relevant government entity of:
+477
+(i) each alleged violation of this chapter by the government entity;
+- 17 -
+H.B. 257
+478
+479
+480
+481
+482
+483
+484
+485
+Enrolled Copy
+(ii) each violation that the state auditor determines to be substantiated, including an
+opportunity to cure the violation not to exceed 30 calendar days; and
+(c) if a government entity fails to cure a violation in accordance with Subsection
+(1)(b)(ii), report the government entity's failure to:
+(i) for a political subdivision as defined in Section 63G-7-102, the attorney general for
+enforcement under Subsection (2); and
+(ii) for a state entity as defined in Section 67-4-2, the Legislative Management
+Committee.
+
+486
+(2) (a) The attorney general shall:
+487
+(i) enforce this chapter against a political subdivision upon referral by the state auditor
+488
+under Subsection (1)(c) by imposing a fine of up to $10,000 per violation per day; and
+489
+(ii) deposit fines under Subsection (2)(a) into the General Fund.
+
+490
+(b) A political subdivision may seek judicial review of a fine that the attorney general
+491
+492
+493
+imposes under this section to determine whether the fine is clearly erroneous.
+(3) A local education agency is not in violation of this chapter for a lawful application
+of Section 53G-8-211.
+
+494
+Section 14. Section 63G-31-402 is enacted to read:
+495
+63G-31-402. Indemnification.
+
+496
+The attorney general shall defend, indemnify, and hold harmless a government entity
+497
+acting under color of state law to enforce this chapter for any claims or damages, including
+498
+court costs and attorney fees that:
+499
+(1) arise as a result of this chapter; and
+500
+(2) are not covered by the government entity's insurance policies or any coverage
+501
+agreement that the State Risk Management Fund issues.
+
+502
+Section 15. Section 67-3-1 is amended to read:
+503
+67-3-1. Functions and duties.
+
+504
+(1) (a) The state auditor is the auditor of public accounts and is independent of any
+505
+executive or administrative officers of the state.
+
+- 18 -
+Enrolled Copy
+506
+507
+508
+509
+H.B. 257
+(b) The state auditor is not limited in the selection of personnel or in the determination
+of the reasonable and necessary expenses of the state auditor's office.
+(2) The state auditor shall examine and certify annually in respect to each fiscal year,
+financial statements showing:
+510
+(a) the condition of the state's finances;
+511
+(b) the revenues received or accrued;
+512
+(c) expenditures paid or accrued;
+513
+(d) the amount of unexpended or unencumbered balances of the appropriations to the
+514
+agencies, departments, divisions, commissions, and institutions; and
+515
+(e) the cash balances of the funds in the custody of the state treasurer.
+
+516
+(3) (a) The state auditor shall:
+517
+(i) audit each permanent fund, each special fund, the General Fund, and the accounts of
+518
+any department of state government or any independent agency or public corporation as the law
+519
+requires, as the auditor determines is necessary, or upon request of the governor or the
+520
+Legislature;
+521
+522
+(ii) perform the audits in accordance with generally accepted auditing standards and
+other auditing procedures as promulgated by recognized authoritative bodies; and
+523
+(iii) as the auditor determines is necessary, conduct the audits to determine:
+524
+(A) honesty and integrity in fiscal affairs;
+525
+(B) accuracy and reliability of financial statements;
+526
+(C) effectiveness and adequacy of financial controls; and
+527
+(D) compliance with the law.
+
+528
+(b) If any state entity receives federal funding, the state auditor shall ensure that the
+529
+530
+531
+532
+533
+audit is performed in accordance with federal audit requirements.
+(c) (i) The costs of the federal compliance portion of the audit may be paid from an
+appropriation to the state auditor from the General Fund.
+(ii) If an appropriation is not provided, or if the federal government does not
+specifically provide for payment of audit costs, the costs of the federal compliance portions of
+- 19 -
+H.B. 257
+Enrolled Copy
+534
+the audit shall be allocated on the basis of the percentage that each state entity's federal funding
+535
+bears to the total federal funds received by the state.
+
+536
+(iii) The allocation shall be adjusted to reflect any reduced audit time required to audit
+537
+funds passed through the state to local governments and to reflect any reduction in audit time
+538
+obtained through the use of internal auditors working under the direction of the state auditor.
+
+539
+(4) (a) Except as provided in Subsection (4)(b), the state auditor shall, in addition to
+540
+financial audits, and as the auditor determines is necessary, conduct performance and special
+541
+purpose audits, examinations, and reviews of any entity that receives public funds, including a
+542
+determination of any or all of the following:
+543
+(i) the honesty and integrity of all the entity's fiscal affairs;
+544
+(ii) whether the entity's administrators have faithfully complied with legislative intent;
+545
+(iii) whether the entity's operations have been conducted in an efficient, effective, and
+546
+547
+548
+549
+550
+551
+552
+cost-efficient manner;
+(iv) whether the entity's programs have been effective in accomplishing the intended
+objectives; and
+(v) whether the entity's management, control, and information systems are adequate,
+effective, and secure.
+(b) The auditor may not conduct performance and special purpose audits,
+examinations, and reviews of any entity that receives public funds if the entity:
+553
+(i) has an elected auditor; and
+554
+(ii) has, within the entity's last budget year, had the entity's financial statements or
+555
+performance formally reviewed by another outside auditor.
+
+556
+(5) The state auditor:
+557
+(a) shall administer any oath or affirmation necessary to the performance of the duties
+558
+of the auditor's office; and
+559
+(b) may:
+560
+(i) subpoena witnesses and documents, whether electronic or otherwise; and
+561
+(ii) examine into any matter that the auditor considers necessary.
+
+- 20 -
+Enrolled Copy
+562
+H.B. 257
+(6) The state auditor may require all persons who have had the disposition or
+563
+management of any property of this state or its political subdivisions to submit statements
+564
+regarding the property at the time and in the form that the auditor requires.
+
+565
+(7) The state auditor shall:
+566
+(a) except where otherwise provided by law, institute suits in Salt Lake County in
+567
+relation to the assessment, collection, and payment of revenues against:
+568
+569
+(i) persons who by any means have become entrusted with public money or property
+and have failed to pay over or deliver the money or property; and
+570
+(ii) all debtors of the state;
+571
+(b) collect and pay into the state treasury all fees received by the state auditor;
+572
+(c) perform the duties of a member of all boards of which the state auditor is a member
+573
+by the constitution or laws of the state, and any other duties that are prescribed by the
+574
+constitution and by law;
+575
+(d) stop the payment of the salary of any state official or state employee who:
+576
+(i) refuses to settle accounts or provide required statements about the custody and
+577
+disposition of public funds or other state property;
+578
+(ii) refuses, neglects, or ignores the instruction of the state auditor or any controlling
+579
+board or department head with respect to the manner of keeping prescribed accounts or funds;
+580
+or
+581
+582
+583
+584
+(iii) fails to correct any delinquencies, improper procedures, and errors brought to the
+official's or employee's attention;
+(e) establish accounting systems, methods, and forms for public accounts in all taxing
+or fee-assessing units of the state in the interest of uniformity, efficiency, and economy;
+585
+(f) superintend the contractual auditing of all state accounts;
+586
+(g) subject to Subsection (8)(a), withhold state allocated funds or the disbursement of
+587
+property taxes from a state or local taxing or fee-assessing unit, if necessary, to ensure that
+588
+officials and employees in those taxing units comply with state laws and procedures in the
+589
+budgeting, expenditures, and financial reporting of public funds;
+- 21 -
+H.B. 257
+590
+Enrolled Copy
+(h) subject to Subsection (9), withhold the disbursement of tax money from any county,
+591
+if necessary, to ensure that officials and employees in the county comply with Section
+592
+59-2-303.1; and
+593
+(i) withhold state allocated funds or the disbursement of property taxes from a local
+594
+government entity or a limited purpose entity, as those terms are defined in Section 67-1a-15 if
+595
+the state auditor finds the withholding necessary to ensure that the entity registers and
+596
+maintains the entity's registration with the lieutenant governor, in accordance with Section
+597
+67-1a-15.
+
+598
+(8) (a) Except as otherwise provided by law, the state auditor may not withhold funds
+599
+under Subsection (7)(g) until a state or local taxing or fee-assessing unit has received formal
+600
+written notice of noncompliance from the auditor and has been given 60 days to make the
+601
+specified corrections.
+
+602
+(b) If, after receiving notice under Subsection (8)(a), a state or independent local
+603
+fee-assessing unit that exclusively assesses fees has not made corrections to comply with state
+604
+laws and procedures in the budgeting, expenditures, and financial reporting of public funds, the
+605
+state auditor:
+606
+(i) shall provide a recommended timeline for corrective actions;
+607
+(ii) may prohibit the state or local fee-assessing unit from accessing money held by the
+608
+609
+state; and
+(iii) may prohibit a state or local fee-assessing unit from accessing money held in an
+610
+account of a financial institution by filing an action in district court requesting an order of the
+611
+court to prohibit a financial institution from providing the fee-assessing unit access to an
+612
+account.
+
+613
+(c) The state auditor shall remove a limitation on accessing funds under Subsection
+614
+(8)(b) upon compliance with state laws and procedures in the budgeting, expenditures, and
+615
+financial reporting of public funds.
+
+616
+617
+(d) If a local taxing or fee-assessing unit has not adopted a budget in compliance with
+state law, the state auditor:
+- 22 -
+Enrolled Copy
+618
+619
+(i) shall provide notice to the taxing or fee-assessing unit of the unit's failure to
+comply;
+620
+621
+(ii) may prohibit the taxing or fee-assessing unit from accessing money held by the
+state; and
+622
+623
+(iii) may prohibit a taxing or fee-assessing unit from accessing money held in an
+account of a financial institution by:
+624
+625
+H.B. 257
+(A) contacting the taxing or fee-assessing unit's financial institution and requesting that
+the institution prohibit access to the account; or
+626
+(B) filing an action in district court requesting an order of the court to prohibit a
+627
+financial institution from providing the taxing or fee-assessing unit access to an account.
+
+628
+(e) If the local taxing or fee-assessing unit adopts a budget in compliance with state
+629
+law, the state auditor shall eliminate a limitation on accessing funds described in Subsection
+630
+(8)(d).
+
+631
+(9) The state auditor may not withhold funds under Subsection (7)(h) until a county has
+632
+received formal written notice of noncompliance from the auditor and has been given 60 days
+633
+to make the specified corrections.
+
+634
+(10) (a) The state auditor may not withhold funds under Subsection (7)(i) until the state
+635
+auditor receives a notice of non-registration, as that term is defined in Section 67-1a-15.
+
+636
+(b) If the state auditor receives a notice of non-registration, the state auditor may
+637
+prohibit the local government entity or limited purpose entity, as those terms are defined in
+638
+Section 67-1a-15, from accessing:
+639
+(i) money held by the state; and
+640
+(ii) money held in an account of a financial institution by:
+641
+(A) contacting the entity's financial institution and requesting that the institution
+642
+643
+644
+645
+prohibit access to the account; or
+(B) filing an action in district court requesting an order of the court to prohibit a
+financial institution from providing the entity access to an account.
+(c) The state auditor shall remove the prohibition on accessing funds described in
+- 23 -
+H.B. 257
+Enrolled Copy
+646
+Subsection (10)(b) if the state auditor received a notice of registration, as that term is defined in
+647
+Section 67-1a-15, from the lieutenant governor.
+
+648
+649
+(11) Notwithstanding Subsection (7)(g), (7)(h), (7)(i), (8)(b), (8)(d), or (10)(b), the
+state auditor:
+650
+(a) shall authorize a disbursement by a local government entity or limited purpose
+651
+entity, as those terms are defined in Section 67-1a-15, or a state or local taxing or fee-assessing
+652
+unit if the disbursement is necessary to:
+653
+654
+(i) avoid a major disruption in the operations of the local government entity, limited
+purpose entity, or state or local taxing or fee-assessing unit; or
+655
+(ii) meet debt service obligations; and
+656
+(b) may authorize a disbursement by a local government entity, limited purpose entity,
+657
+or state or local taxing or fee-assessing unit as the state auditor determines is appropriate.
+
+658
+(12) (a) The state auditor may seek relief under the Utah Rules of Civil Procedure to
+659
+take temporary custody of public funds if an action is necessary to protect public funds from
+660
+being improperly diverted from their intended public purpose.
+
+661
+(b) If the state auditor seeks relief under Subsection (12)(a):
+662
+(i) the state auditor is not required to exhaust the procedures in Subsection (7) or (8);
+663
+664
+and
+(ii) the state treasurer may hold the public funds in accordance with Section 67-4-1 if a
+665
+court orders the public funds to be protected from improper diversion from their public
+666
+purpose.
+
+667
+(13) The state auditor shall:
+668
+(a) establish audit guidelines and procedures for audits of local mental health and
+669
+substance abuse authorities and their contract providers, conducted pursuant to Title 17,
+670
+Chapter 43, Part 2, Local Substance Abuse Authorities, Title 17, Chapter 43, Part 3, Local
+671
+Mental Health Authorities, Title 26B, Chapter 5, Health Care - Substance Use and Mental
+672
+Health, and Title 51, Chapter 2a, Accounting Reports from Political Subdivisions, Interlocal
+673
+Organizations, and Other Local Entities Act; and
+- 24 -
+Enrolled Copy
+H.B. 257
+674
+(b) ensure that those guidelines and procedures provide assurances to the state that:
+675
+(i) state and federal funds appropriated to local mental health authorities are used for
+676
+677
+mental health purposes;
+(ii) a private provider under an annual or otherwise ongoing contract to provide
+678
+comprehensive mental health programs or services for a local mental health authority is in
+679
+compliance with state and local contract requirements and state and federal law;
+680
+681
+(iii) state and federal funds appropriated to local substance abuse authorities are used
+for substance abuse programs and services; and
+682
+(iv) a private provider under an annual or otherwise ongoing contract to provide
+683
+comprehensive substance abuse programs or services for a local substance abuse authority is in
+684
+compliance with state and local contract requirements, and state and federal law.
+
+685
+(14) (a) The state auditor may, in accordance with the auditor's responsibilities for
+686
+political subdivisions of the state as provided in Title 51, Chapter 2a, Accounting Reports from
+687
+Political Subdivisions, Interlocal Organizations, and Other Local Entities Act, initiate audits or
+688
+investigations of any political subdivision that are necessary to determine honesty and integrity
+689
+in fiscal affairs, accuracy and reliability of financial statements, effectiveness, and adequacy of
+690
+financial controls and compliance with the law.
+
+691
+(b) If the state auditor receives notice under Subsection 11-41-104(7) from the
+692
+Governor's Office of Economic Opportunity on or after July 1, 2024, the state auditor may
+693
+initiate an audit or investigation of the public entity subject to the notice to determine
+694
+compliance with Section 11-41-103.
+
+695
+696
+697
+698
+(15) (a) The state auditor may not audit work that the state auditor performed before
+becoming state auditor.
+(b) If the state auditor has previously been a responsible official in state government
+whose work has not yet been audited, the Legislature shall:
+699
+(i) designate how that work shall be audited; and
+700
+(ii) provide additional funding for those audits, if necessary.
+
+701
+(16) The state auditor shall:
+- 25 -
+H.B. 257
+702
+Enrolled Copy
+(a) with the assistance, advice, and recommendations of an advisory committee
+703
+appointed by the state auditor from among special district boards of trustees, officers, and
+704
+employees and special service district boards, officers, and employees:
+705
+(i) prepare a Uniform Accounting Manual for Special Districts that:
+706
+(A) prescribes a uniform system of accounting and uniform budgeting and reporting
+707
+procedures for special districts under Title 17B, Limited Purpose Local Government Entities -
+708
+Special Districts, and special service districts under Title 17D, Chapter 1, Special Service
+709
+District Act;
+710
+(B) conforms with generally accepted accounting principles; and
+711
+(C) prescribes reasonable exceptions and modifications for smaller districts to the
+712
+uniform system of accounting, budgeting, and reporting;
+713
+714
+(ii) maintain the manual under this Subsection (16)(a) so that the manual continues to
+reflect generally accepted accounting principles;
+715
+716
+(iii) conduct a continuing review and modification of procedures in order to improve
+them;
+717
+(iv) prepare and supply each district with suitable budget and reporting forms; and
+718
+(v) (A) prepare instructional materials, conduct training programs, and render other
+719
+services considered necessary to assist special districts and special service districts in
+720
+implementing the uniform accounting, budgeting, and reporting procedures; and
+721
+722
+(B) ensure that any training described in Subsection (16)(a)(v)(A) complies with Title
+63G, Chapter 22, State Training and Certification Requirements; and
+723
+(b) continually analyze and evaluate the accounting, budgeting, and reporting practices
+724
+and experiences of specific special districts and special service districts selected by the state
+725
+auditor and make the information available to all districts.
+
+726
+(17) (a) The following records in the custody or control of the state auditor are
+727
+protected records under Title 63G, Chapter 2, Government Records Access and Management
+728
+Act:
+729
+(i) records that would disclose information relating to allegations of personal
+- 26 -
+Enrolled Copy
+H.B. 257
+730
+misconduct, gross mismanagement, or illegal activity of a past or present governmental
+731
+employee if the information or allegation cannot be corroborated by the state auditor through
+732
+other documents or evidence, and the records relating to the allegation are not relied upon by
+733
+the state auditor in preparing a final audit report;
+734
+(ii) records and audit workpapers to the extent the workpapers would disclose the
+735
+identity of an individual who during the course of an audit, communicated the existence of any
+736
+waste of public funds, property, or manpower, or a violation or suspected violation of a law,
+737
+rule, or regulation adopted under the laws of this state, a political subdivision of the state, or
+738
+any recognized entity of the United States, if the information was disclosed on the condition
+739
+that the identity of the individual be protected;
+740
+(iii) before an audit is completed and the final audit report is released, records or drafts
+741
+circulated to an individual who is not an employee or head of a governmental entity for the
+742
+individual's response or information;
+743
+744
+(iv) records that would disclose an outline or part of any audit survey plans or audit
+program; and
+745
+(v) requests for audits, if disclosure would risk circumvention of an audit.
+
+746
+(b) The provisions of Subsections (17)(a)(i), (ii), and (iii) do not prohibit the disclosure
+747
+of records or information that relate to a violation of the law by a governmental entity or
+748
+employee to a government prosecutor or peace officer.
+
+749
+(c) The provisions of this Subsection (17) do not limit the authority otherwise given to
+750
+the state auditor to classify a document as public, private, controlled, or protected under Title
+751
+63G, Chapter 2, Government Records Access and Management Act.
+
+752
+(d) (i) As used in this Subsection (17)(d), "record dispute" means a dispute between the
+753
+state auditor and the subject of an audit performed by the state auditor as to whether the state
+754
+auditor may release a record, as defined in Section 63G-2-103, to the public that the state
+755
+auditor gained access to in the course of the state auditor's audit but which the subject of the
+756
+audit claims is not subject to disclosure under Title 63G, Chapter 2, Government Records
+757
+Access and Management Act.
+
+- 27 -
+H.B. 257
+758
+Enrolled Copy
+(ii) The state auditor may submit a record dispute to the State Records Committee,
+759
+created in Section 63G-2-501, for a determination of whether the state auditor may, in
+760
+conjunction with the state auditor's release of an audit report, release to the public the record
+761
+that is the subject of the record dispute.
+
+762
+(iii) The state auditor or the subject of the audit may seek judicial review of a State
+763
+Records Committee determination under Subsection (17)(d)(ii), as provided in Section
+764
+63G-2-404.
+
+765
+(18) If the state auditor conducts an audit of an entity that the state auditor has
+766
+previously audited and finds that the entity has not implemented a recommendation made by
+767
+the state auditor in a previous audit, the state auditor shall notify the Legislative Management
+768
+Committee through the Legislative Management Committee's audit subcommittee that the
+769
+entity has not implemented that recommendation.
+
+770
+771
+(19) The state auditor shall, with the advice and consent of the Senate, appoint the state
+privacy officer described in Section 67-3-13.
+
+772
+(20) Except as provided in Subsection (21), the state auditor shall report, or ensure that
+773
+another government entity reports, on the financial, operational, and performance metrics for
+774
+the state system of higher education and the state system of public education, including metrics
+775
+in relation to students, programs, and schools within those systems.
+
+776
+777
+778
+779
+780
+781
+782
+783
+784
+785
+(21) (a) Notwithstanding Subsection (20), the state auditor shall conduct regular audits
+of:
+(i) the scholarship granting organization for the Special Needs Opportunity Scholarship
+Program, created in Section 53E-7-402;
+(ii) the State Board of Education for the Carson Smith Scholarship Program, created in
+Section 53F-4-302; and
+(iii) the scholarship program manager for the Utah Fits All Scholarship Program,
+created in Section 53F-6-402.
+(b) Nothing in this subsection limits or impairs the authority of the State Board of
+Education to administer the programs described in Subsection (21)(a).
+
+- 28 -
+Enrolled Copy
+H.B. 257
+786
+(22) The state auditor shall, based on the information posted by the Office of
+787
+Legislative Research and General Counsel under Subsection 36-12-12.1(2), for each policy,
+788
+track and post the following information on the state auditor's website:
+789
+(a) the information posted under Subsections 36-12-12.1(2)(a) through (e);
+790
+(b) an indication regarding whether the policy is timely adopted, adopted late, or not
+791
+792
+adopted;
+(c) an indication regarding whether the policy complies with the requirements
+793
+established by law for the policy; and
+794
+(d) a link to the policy.
+
+795
+(23) (a) A legislator may request that the state auditor conduct an inquiry to determine
+796
+whether a government entity, government official, or government employee has complied with
+797
+a legal obligation directly imposed, by statute, on the government entity, government official,
+798
+or government employee.
+
+799
+800
+801
+802
+803
+804
+(b) The state auditor may, upon receiving a request under Subsection (23)(a), conduct
+the inquiry requested.
+(c) If the state auditor conducts the inquiry described in Subsection (23)(b), the state
+auditor shall post the results of the inquiry on the state auditor's website.
+(d) The state auditor may limit the inquiry described in this Subsection (23) to a simple
+determination, without conducting an audit, regarding whether the obligation was fulfilled.
+
+805
+(24) The state auditor shall:
+806
+(a) ensure compliance with Title 63G, Chapter 31, Distinctions on the Basis of Sex, in
+807
+808
+809
+accordance with Section 63G-31-401; and
+(b) report to the Legislative Management Committee, upon request, regarding the state
+auditor's actions under this Subsection (24).
+
+810
+Section 16. Section 67-5-1 is amended to read:
+811
+67-5-1. General duties.
+
+812
+(1) The attorney general shall:
+813
+(a) perform all duties in a manner consistent with the attorney-client relationship under
+- 29 -
+H.B. 257
+814
+815
+Enrolled Copy
+Section 67-5-17;
+(b) except as provided in Sections 10-3-928 and 17-18a-403, attend the Supreme Court
+816
+and the Court of Appeals of this state, and all courts of the United States, and prosecute or
+817
+defend all causes to which the state or any officer, board, or commission of the state in an
+818
+official capacity is a party, and take charge, as attorney, of all civil legal matters in which the
+819
+state is interested;
+820
+821
+822
+823
+(c) after judgment on any cause referred to in Subsection (1)(b), direct the issuance of
+process as necessary to execute the judgment;
+(d) account for, and pay over to the proper officer, all money that comes into the
+attorney general's possession that belongs to the state;
+824
+(e) keep a file of all cases in which the attorney general is required to appear, including
+825
+any documents and papers showing the court in which the cases have been instituted and tried,
+826
+and whether they are civil or criminal, and:
+827
+(i) if civil, the nature of the demand, the stage of proceedings, and, when prosecuted to
+828
+judgment, a memorandum of the judgment and of any process issued if satisfied, and if not
+829
+satisfied, documentation of the return of the sheriff;
+830
+(ii) if criminal, the nature of the crime, the mode of prosecution, the stage of
+831
+proceedings, and, when prosecuted to sentence, a memorandum of the sentence and of the
+832
+execution, if the sentence has been executed, and, if not executed, the reason for the delay or
+833
+prevention; and
+834
+(iii) deliver this information to the attorney general's successor in office;
+835
+(f) exercise supervisory powers over the district and county attorneys of the state in all
+836
+matters pertaining to the duties of the district and county attorneys' offices, including the
+837
+authority described in Subsection (2);
+838
+839
+(g) give the attorney general's opinion in writing and without fee, when required, upon
+any question of law relating to the office of the requester:
+840
+(i) in accordance with Section 67-5-1.1, to the Legislature or either house;
+841
+(ii) to any state officer, board, or commission; and
+- 30 -
+Enrolled Copy
+H.B. 257
+842
+(iii) to any county attorney or district attorney;
+843
+(h) when required by the public service or directed by the governor, assist any county,
+844
+845
+district, or city attorney in the discharge of county, district, or city attorney's duties;
+(i) purchase in the name of the state, under the direction of the state Board of
+846
+Examiners, any property offered for sale under execution issued upon judgments in favor of or
+847
+for the use of the state, and enter satisfaction in whole or in part of the judgments as the
+848
+consideration of the purchases;
+849
+(j) when the property of a judgment debtor in any judgment mentioned in Subsection
+850
+(1)(i) has been sold under a prior judgment, or is subject to any judgment, lien, or encumbrance
+851
+taking precedence of the judgment in favor of the state, redeem the property, under the
+852
+direction of the state Board of Examiners, from the prior judgment, lien, or encumbrance, and
+853
+pay all money necessary for the redemption, upon the order of the state Board of Examiners,
+854
+out of any money appropriated for these purposes;
+855
+(k) when in the attorney general's opinion it is necessary for the collection or
+856
+enforcement of any judgment, institute and prosecute on behalf of the state any action or
+857
+proceeding necessary to set aside and annul all conveyances fraudulently made by the judgment
+858
+debtors, and pay the cost necessary to the prosecution, when allowed by the state Board of
+859
+Examiners, out of any money not otherwise appropriated;
+860
+(l) discharge the duties of a member of all official boards of which the attorney general
+861
+is or may be made a member by the Utah Constitution or by the laws of the state, and other
+862
+duties prescribed by law;
+863
+(m) institute and prosecute proper proceedings in any court of the state or of the United
+864
+States to restrain and enjoin corporations organized under the laws of this or any other state or
+865
+territory from acting illegally or in excess of their corporate powers or contrary to public
+866
+policy, and in proper cases forfeit their corporate franchises, dissolve the corporations, and
+867
+wind up their affairs;
+868
+869
+(n) institute investigations for the recovery of all real or personal property that may
+have escheated or should escheat to the state, and for that purpose, subpoena any persons
+- 31 -
+H.B. 257
+Enrolled Copy
+870
+before any of the district courts to answer inquiries and render accounts concerning any
+871
+property, examine all books and papers of any corporations, and when any real or personal
+872
+property is discovered that should escheat to the state, institute suit in the district court of the
+873
+county where the property is situated for its recovery, and escheat that property to the state;
+874
+875
+876
+877
+878
+879
+880
+(o) administer the Children's Justice Center as a program to be implemented in various
+counties pursuant to Sections 67-5b-101 through 67-5b-107;
+(p) assist the Constitutional Defense Council as provided in Title 63C, Chapter 4a,
+Constitutional and Federalism Defense Act;
+(q) pursue any appropriate legal action to implement the state's public lands policy
+established in Section 63C-4a-103;
+(r) investigate and prosecute violations of all applicable state laws relating to fraud in
+881
+connection with the state Medicaid program and any other medical assistance program
+882
+administered by the state, including violations of Title 26B, Chapter 3, Part 11, Utah False
+883
+Claims Act;
+884
+(s) investigate and prosecute complaints of abuse, neglect, or exploitation of patients:
+885
+(i) in health care facilities that receive payments under the state Medicaid program;
+886
+(ii) in board and care facilities, as defined in the federal Social Security Act, 42 U.S.C.
+
+887
+888
+889
+890
+891
+Sec. 1396b(q)(4)(B), regardless of the source of payment to the board and care facility; and
+(iii) who are receiving medical assistance under the Medicaid program as defined in
+Section 26B-3-101 in a noninstitutional or other setting;
+(t) (i) report at least twice per year to the Legislative Management Committee on any
+pending or anticipated lawsuits, other than eminent domain lawsuits, that might:
+892
+(A) cost the state more than $500,000; or
+893
+(B) require the state to take legally binding action that would cost more than $500,000
+894
+895
+896
+897
+to implement; and
+(ii) if the meeting is closed, include an estimate of the state's potential financial or
+other legal exposure in that report;
+(u) (i) submit a written report to the committees described in Subsection (1)(u)(ii) that
+- 32 -
+Enrolled Copy
+H.B. 257
+898
+summarizes any lawsuit or decision in which a court or the Office of the Attorney General has
+899
+determined that a state statute is unconstitutional or unenforceable since the attorney general's
+900
+last report under this Subsection (1)(u), including any:
+901
+(A) settlements reached;
+902
+(B) consent decrees entered;
+903
+(C) judgments issued;
+904
+(D) preliminary injunctions issued;
+905
+(E) temporary restraining orders issued; or
+906
+(F) formal or informal policies of the Office of the Attorney General to not enforce a
+907
+908
+law; and
+(ii) at least 30 days before the Legislature's May and November interim meetings,
+909
+submit the report described in Subsection (1)(u)(i) to:
+910
+(A) the Legislative Management Committee;
+911
+(B) the Judiciary Interim Committee; and
+912
+(C) the Law Enforcement and Criminal Justice Interim Committee;
+913
+(v) if the attorney general operates the Office of the Attorney General or any portion of
+914
+the Office of the Attorney General as an internal service fund agency in accordance with
+915
+Section 67-5-4, submit to the rate committee established in Section 67-5-34:
+916
+(i) a proposed rate and fee schedule in accordance with Subsection 67-5-34(4); and
+917
+(ii) any other information or analysis requested by the rate committee;
+918
+(w) before the end of each calendar year, create an annual performance report for the
+919
+920
+921
+922
+Office of the Attorney General and post the report on the attorney general's website;
+(x) ensure that any training required under this chapter complies with Title 63G,
+Chapter 22, State Training and Certification Requirements;
+(y) notify the legislative general counsel in writing within three business days after the
+923
+day on which the attorney general is officially notified of a claim, regardless of whether the
+924
+claim is filed in state or federal court, that challenges:
+925
+(i) the constitutionality of a state statute;
+- 33 -
+H.B. 257
+Enrolled Copy
+926
+(ii) the validity of legislation; or
+927
+(iii) any action of the Legislature; [and]
+928
+(z) (i) notwithstanding Title 63G, Chapter 6a, Utah Procurement Code, provide a
+929
+special advisor to the Office of the Governor and the Office of the Attorney General in matters
+930
+relating to Native American and tribal issues to:
+931
+(A) establish outreach to the tribes and affected counties and communities; and
+932
+(B) foster better relations and a cooperative framework; and
+933
+(ii) annually report to the Executive Offices and Criminal Justice Appropriations
+934
+Subcommittee regarding:
+935
+(A) the status of the work of the special advisor described in Subsection (1)(z)(i); and
+936
+(B) whether the need remains for the ongoing appropriation to fund the special advisor
+937
+938
+939
+940
+941
+942
+described in Subsection (1)(z)(i)[.]; and
+(aa) (i) enforce compliance with Title 63G, Chapter 31, Distinctions on the Basis of
+Sex, in accordance with Section 63G-31-401; and
+(ii) report to the Legislative Management Committee, upon request, regarding the
+attorney general's enforcement under this Subsection (1)(aa).
+(2) (a) The attorney general may require a district attorney or county attorney of the
+943
+state to, upon request, report on the status of public business entrusted to the district or county
+944
+attorney's charge.
+
+945
+946
+947
+(b) The attorney general may review investigation results de novo and file criminal
+charges, if warranted, in any case involving a first degree felony, if:
+(i) a law enforcement agency submits investigation results to the county attorney or
+948
+district attorney of the jurisdiction where the incident occurred and the county attorney or
+949
+district attorney:
+950
+(A) declines to file criminal charges; or
+951
+(B) fails to screen the case for criminal charges within six months after the law
+952
+953
+enforcement agency's submission of the investigation results; and
+(ii) after consultation with the county attorney or district attorney of the jurisdiction
+- 34 -
+Enrolled Copy
+H.B. 257
+954
+where the incident occurred, the attorney general reasonably believes action by the attorney
+955
+general would not interfere with an ongoing investigation or prosecution by the county attorney
+956
+or district attorney of the jurisdiction where the incident occurred.
+
+957
+(c) If the attorney general decides to conduct a review under Subsection (2)(b), the
+958
+district attorney, county attorney, and law enforcement agency shall, within 14 days after the
+959
+day on which the attorney general makes a request, provide the attorney general with:
+960
+961
+962
+963
+(i) all information relating to the investigation, including all reports, witness lists,
+witness statements, and other documents created or collected in relation to the investigation;
+(ii) all recordings, photographs, and other physical or digital media created or collected
+in relation to the investigation;
+964
+(iii) access to all evidence gathered or collected in relation to the investigation; and
+965
+(iv) the identification of, and access to, all officers or other persons who have
+966
+967
+information relating to the investigation.
+(d) If a district attorney, county attorney, or law enforcement agency fails to timely
+968
+comply with Subsection (2)(c), the attorney general may seek a court order compelling
+969
+compliance.
+
+970
+(e) If the attorney general seeks a court order under Subsection (2)(d), the court shall
+971
+grant the order unless the district attorney, county attorney, or law enforcement agency shows
+972
+good cause and a compelling interest for not complying with Subsection (2)(c).
+
+973
+Section 17. Section 68-3-12.5 is amended to read:
+974
+68-3-12.5. Definitions for Utah Code.
+
+975
+(1) The definitions listed in this section apply to the Utah Code, unless:
+976
+(a) the definition is inconsistent with the manifest intent of the Legislature or repugnant
+977
+978
+979
+to the context of the statute; or
+(b) a different definition is expressly provided for the respective title, chapter, part,
+section, or subsection.
+
+980
+(2) "Adjudicative proceeding" means:
+981
+(a) an action by a board, commission, department, officer, or other administrative unit
+- 35 -
+H.B. 257
+Enrolled Copy
+982
+of the state that determines the legal rights, duties, privileges, immunities, or other legal
+983
+interests of one or more identifiable persons, including an action to grant, deny, revoke,
+984
+suspend, modify, annul, withdraw, or amend an authority, right, or license; and
+985
+(b) judicial review of an action described in Subsection (2)(a).
+
+986
+(3) "Administrator" includes "executor" when the subject matter justifies the use.
+
+987
+(4) "Advisory board," "advisory commission," and "advisory council" mean a board,
+988
+commission, committee, or council that:
+989
+(a) is created by, and whose duties are provided by, statute or executive order;
+990
+(b) performs its duties only under the supervision of another person as provided by
+991
+992
+993
+994
+995
+996
+997
+statute; and
+(c) provides advice and makes recommendations to another person that makes policy
+for the benefit of the general public.
+(5) "Armed forces" means the United States Army, Navy, Air Force, Marine Corps,
+Space Force, and Coast Guard.
+(6) "City" includes, depending on population, a metro township as defined in Section
+10-3c-102.
+
+998
+(7) "County executive" means:
+999
+(a) the county commission, in the county commission or expanded county commission
+1000
+form of government established under Title 17, Chapter 52a, Changing Forms of County
+1001
+Government;
+1002
+1003
+1004
+1005
+(b) the county executive, in the county executive-council optional form of government
+authorized by Section 17-52a-203; or
+(c) the county manager, in the council-manager optional form of government
+authorized by Section 17-52a-204.
+
+1006
+(8) "County legislative body" means:
+1007
+(a) the county commission, in the county commission or expanded county commission
+1008
+form of government established under Title 17, Chapter 52a, Changing Forms of County
+1009
+Government;
+- 36 -
+Enrolled Copy
+1010
+1011
+(b) the county council, in the county executive-council optional form of government
+authorized by Section 17-52a-203; and
+1012
+1013
+H.B. 257
+(c) the county council, in the council-manager optional form of government authorized
+by Section 17-52a-204.
+
+1014
+(9) "Depose" means to make a written statement made under oath or affirmation.
+
+1015
+(10) (a) "Equal" means, with respect to biological sex, of the same value.
+
+1016
+(b) "Equal" does not mean, with respect to biological sex:
+1017
+(i) a characteristic of being the same or identical; or
+1018
+(ii) a requirement that biological sexes be ignored or co-mingled in every circumstance.
+
+1019
+[(10)] (11) "Executor" includes "administrator" when the subject matter justifies the
+1020
+use.
+
+1021
+(12) "Father" means a parent who is of the male sex.
+
+1022
+(13) "Female" means the characteristic of an individual whose biological reproductive
+1023
+system is of the general type that functions in a way that could produce ova.
+
+1024
+[(11)] (14) "Guardian" includes a person who:
+1025
+(a) qualifies as a guardian of a minor or incapacitated person pursuant to testamentary
+1026
+or court appointment; or
+1027
+(b) is appointed by a court to manage the estate of a minor or incapacitated person.
+
+1028
+[(12)] (15) "Highway" includes:
+1029
+(a) a public bridge;
+1030
+(b) a county way;
+1031
+(c) a county road;
+1032
+(d) a common road; and
+1033
+(e) a state road.
+
+1034
+[(13)] (16) "Intellectual disability" means a significant, subaverage general intellectual
+1035
+functioning that:
+1036
+(a) exists concurrently with deficits in adaptive behavior; and
+1037
+(b) is manifested during the developmental period as defined in the current edition of
+- 37 -
+H.B. 257
+Enrolled Copy
+1038
+the Diagnostic and Statistical Manual of Mental Disorders, published by the American
+1039
+Psychiatric Association.
+
+1040
+[(14)] (17) "Intermediate care facility for people with an intellectual disability" means
+1041
+an intermediate care facility for the mentally retarded, as defined in Title XIX of the Social
+1042
+Security Act.
+
+1043
+[(15)] (18) "Land" includes:
+1044
+(a) land;
+1045
+(b) a tenement;
+1046
+(c) a hereditament;
+1047
+(d) a water right;
+1048
+(e) a possessory right; and
+1049
+(f) a claim.
+
+1050
+(19) "Male" means the characteristic of an individual whose biological reproductive
+1051
+system is of the general type that functions to fertilize the ova of a female.
+
+1052
+(20) "Man" means an adult human male.
+
+1053
+[(16)] (21) "Month" means a calendar month, unless otherwise expressed.
+
+1054
+(22) "Mother" means a parent who is of the female sex.
+
+1055
+[(17)] (23) "Oath" includes "affirmation."
+1056
+[(18)] (24) "Person" means:
+1057
+(a) an individual;
+1058
+(b) an association;
+1059
+(c) an institution;
+1060
+(d) a corporation;
+1061
+(e) a company;
+1062
+(f) a trust;
+1063
+(g) a limited liability company;
+1064
+(h) a partnership;
+1065
+(i) a political subdivision;
+- 38 -
+Enrolled Copy
+1066
+1067
+H.B. 257
+(j) a government office, department, division, bureau, or other body of government;
+and
+1068
+(k) any other organization or entity.
+
+1069
+[(19)] (25) "Personal property" includes:
+1070
+(a) money;
+1071
+(b) goods;
+1072
+(c) chattels;
+1073
+(d) effects;
+1074
+(e) evidences of a right in action;
+1075
+(f) a written instrument by which a pecuniary obligation, right, or title to property is
+1076
+created, acknowledged, transferred, increased, defeated, discharged, or diminished; and
+1077
+(g) a right or interest in an item described in Subsections [(19)(a)] (25)(a) through (f).
+
+1078
+[(20)] (26) "Personal representative," "executor," and "administrator" include:
+1079
+(a) an executor;
+1080
+(b) an administrator;
+1081
+(c) a successor personal representative;
+1082
+(d) a special administrator; and
+1083
+(e) a person who performs substantially the same function as a person described in
+1084
+1085
+1086
+Subsections [(20)(a)] (26)(a) through (d) under the law governing the person's status.
+[(21)] (27) "Policy board," "policy commission," or "policy council" means a board,
+commission, or council that:
+1087
+(a) is authorized to make policy for the benefit of the general public;
+1088
+(b) is created by, and whose duties are provided by, the constitution or statute; and
+1089
+(c) performs its duties according to its own rules without supervision other than under
+1090
+1091
+1092
+1093
+the general control of another person as provided by statute.
+[(22)] (28) "Population" is shown by the most recent state or national census, unless
+expressly provided otherwise.
+[(23)] (29) "Process" means a writ or summons issued in the course of a judicial
+- 39 -
+H.B. 257
+1094
+Enrolled Copy
+proceeding.
+
+1095
+[(24)] (30) "Property" includes both real and personal property.
+
+1096
+[(25)] (31) "Real estate" or "real property" includes:
+1097
+(a) land;
+1098
+(b) a tenement;
+1099
+(c) a hereditament;
+1100
+(d) a water right;
+1101
+(e) a possessory right; and
+1102
+(f) a claim.
+
+1103
+[(26)] (32) "Review board," "review commission," and "review council" mean a board,
+1104
+1105
+1106
+commission, committee, or council that:
+(a) is authorized to approve policy made for the benefit of the general public by another
+body or person;
+1107
+(b) is created by, and whose duties are provided by, statute; and
+1108
+(c) performs its duties according to its own rules without supervision other than under
+1109
+the general control of another person as provided by statute.
+
+1110
+[(27)] (33) "Road" includes:
+1111
+(a) a public bridge;
+1112
+(b) a county way;
+1113
+(c) a county road;
+1114
+(d) a common road; and
+1115
+(e) a state road.
+
+1116
+(34) "Sex" means, in relation to an individual, the individual's biological sex, either
+1117
+male or female, at birth, according to distinct reproductive roles as manifested by:
+1118
+(a) sex and reproductive organ anatomy;
+1119
+(b) chromosomal makeup; and
+1120
+(c) endogenous hormone profiles.
+
+1121
+[(28)] (35) "Signature" includes a name, mark, or sign written with the intent to
+- 40 -
+Enrolled Copy
+1122
+H.B. 257
+authenticate an instrument or writing.
+
+1123
+[(29)] (36) "State," when applied to the different parts of the United States, includes a
+1124
+state, district, or territory of the United States.
+
+1125
+[(30)] (37) "Swear" includes "affirm."
+1126
+[(31)] (38) "Testify" means to make an oral statement under oath or affirmation.
+
+1127
+[(32)] (39) "Town" includes, depending on population, a metro township as defined in
+1128
+Section 10-3c-102.
+
+1129
+[(33)] (40) "Uniformed services" means:
+1130
+(a) the armed forces;
+1131
+(b) the commissioned corps of the National Oceanic and Atmospheric Administration;
+1132
+and
+1133
+(c) the commissioned corps of the United States Public Health Service.
+
+1134
+[(34)] (41) "United States" includes each state, district, and territory of the United
+1135
+States of America.
+
+1136
+[(35)] (42) "Utah Code" means the 1953 recodification of the Utah Code, as amended,
+1137
+unless the text expressly references a portion of the 1953 recodification of the Utah Code as it
+1138
+existed:
+1139
+(a) on the day on which the 1953 recodification of the Utah Code was enacted; or
+1140
+(b) (i) after the day described in Subsection [(35)(a)] (42)(a); and
+1141
+(ii) before the most recent amendment to the referenced portion of the 1953
+1142
+1143
+1144
+recodification of the Utah Code.
+[(36)] (43) "Vessel," when used with reference to shipping, includes a steamboat, canal
+boat, and every structure adapted to be navigated from place to place.
+
+1145
+[(37)] (44) (a) "Veteran" means an individual who:
+1146
+(i) has served in the United States Armed Forces for at least 180 days:
+1147
+(A) on active duty; or
+1148
+(B) in a reserve component, to include the National Guard; or
+1149
+(ii) has incurred an actual service-related injury or disability while in the United States
+- 41 -
+H.B. 257
+1150
+Enrolled Copy
+Armed Forces regardless of whether the individual completed 180 days; and
+1151
+(iii) was separated or retired under conditions characterized as honorable or general.
+
+1152
+(b) This definition is not intended to confer eligibility for benefits.
+
+1153
+[(38)] (45) "Will" includes a codicil.
+
+1154
+(46) "Woman" means an adult human female.
+
+1155
+[(39)] (47) "Writ" means an order or precept in writing, issued in the name of:
+1156
+(a) the state;
+1157
+(b) a court; or
+1158
+(c) a judicial officer.
+
+1159
+[(40)] (48) "Writing" includes:
+1160
+(a) printing;
+1161
+(b) handwriting; and
+1162
+(c) information stored in an electronic or other medium if the information is retrievable
+1163
+in a perceivable format.
+
+1164
+Section 18. Section 76-6-206 is amended to read:
+1165
+76-6-206. Criminal trespass.
+
+1166
+(1) (a) As used in this section:
+1167
+(i) "Enter" means intrusion of the entire body or the entire unmanned aircraft.
+
+1168
+(ii) "Graffiti" means the same as that term is defined in Section 76-6-101.
+
+1169
+(iii) "Remain unlawfully," as that term relates to an unmanned aircraft, means
+1170
+remaining on or over private property when:
+1171
+1172
+1173
+1174
+(A) the private property or any portion of the private property is not open to the public;
+and
+(B) the person operating the unmanned aircraft is not otherwise authorized to fly the
+unmanned aircraft over the private property or any portion of the private property.
+
+1175
+(b) Terms defined in Sections 76-1-101.5 and 76-6-201 apply to this section.
+
+1176
+(2) An actor commits criminal trespass if, under circumstances not amounting to
+1177
+burglary as defined in Section 76-6-202, 76-6-203, or 76-6-204 or a violation of Section
+- 42 -
+Enrolled Copy
+1178
+76-10-2402 regarding commercial obstruction:
+1179
+1180
+(a) the actor enters or remains unlawfully on or causes an unmanned aircraft to enter
+and remain unlawfully over property and:
+1181
+1182
+H.B. 257
+(i) intends to cause annoyance or injury to any person or damage to any property,
+including the use of graffiti;
+1183
+(ii) intends to commit any crime, other than theft or a felony; or
+1184
+(iii) is reckless as to whether the actor's or unmanned aircraft's presence will cause fear
+1185
+for the safety of another;
+1186
+(b) knowing the actor's or unmanned aircraft's entry or presence is unlawful, the actor
+1187
+enters or remains on or causes an unmanned aircraft to enter or remain unlawfully over
+1188
+property to which notice against entering is given by:
+1189
+1190
+(i) personal communication to the actor by the owner or someone with apparent
+authority to act for the owner;
+1191
+(ii) fencing or other enclosure obviously designed to exclude intruders; or
+1192
+(iii) posting of signs reasonably likely to come to the attention of intruders; [or]
+1193
+(c) the actor enters a condominium unit in violation of [Subsection] Section
+1194
+57-8-7(8)[.]; or
+1195
+1196
+(d) the actor enters a sex-designated changing room in violation of Subsection
+63G-31-302(3).
+
+1197
+1198
+(3) (a) Except as provided in Subsection (3)(b), a violation of Subsection (2)(a) [or],
+(b), or (d) is a class B misdemeanor.
+
+1199
+(b) [If] The following is a class A misdemeanor:
+1200
+(i) if a violation of Subsection (2)(a) or (b) is committed in a dwelling[, the violation is
+1201
+a class A misdemeanor.];
+1202
+1203
+(ii) if a violation of Subsection (2)(d) is committed while also committing the offense
+of:
+1204
+(A) lewdness under Section 76-9-702;
+1205
+(B) lewdness involving a child under Section 76-9-702.5;
+- 43 -
+H.B. 257
+Enrolled Copy
+1206
+(C) voyeurism under Section 76-9-702.7; or
+1207
+(D) loitering in a privacy space under Section 76-9-702.8; or
+1208
+(iii) if a violation of Subsection (2)(d) is committed in a sex-designated privacy space,
+1209
+as defined in Section 76-9-702.8, that is not designated for individuals of the actor's sex.
+
+1210
+(c) A violation of Subsection (2)(c) is an infraction.
+
+1211
+(4) It is a defense to prosecution under this section that:
+1212
+(a) the property was at the time open to the public; and
+1213
+(b) the defendant complied with all lawful conditions imposed on access to or
+1214
+1215
+1216
+1217
+1218
+remaining on the property.
+(5) In addition to an order for restitution under Section 77-38b-205, an actor who
+commits a violation of Subsection (2) may also be liable for:
+(a) statutory damages in the amount of three times the value of damages resulting from
+the violation of Subsection (2) or $500, whichever is greater; and
+1219
+(b) reasonable attorney fees not to exceed $250, and court costs.
+
+1220
+(6) Civil damages under Subsection (5) may be collected in a separate action by the
+1221
+property owner or the owner's assignee.
+
+1222
+Section 19. Section 76-9-202 is amended to read:
+1223
+76-9-202. Emergency reporting -- Interference -- False report.
+
+1224
+(1) As used in this section:
+1225
+(a) "Emergency" means a situation in which property or human life is in jeopardy and
+1226
+the prompt summoning of aid is essential to the preservation of human life or property.
+
+1227
+(b) "Party line" means a subscriber's line or telephone circuit:
+1228
+(i) that consists of two or more connected main telephone stations; and
+1229
+(ii) where each telephone station has a distinctive ring or telephone number.
+
+1230
+(2) An actor is guilty of emergency reporting abuse if the actor:
+1231
+(a) intentionally refuses to yield or surrender the use of a party line or a public pay
+1232
+telephone to another individual upon being informed that the telephone is needed to report a
+1233
+fire or summon police, medical, or other aid in case of emergency, unless the telephone is
+- 44 -
+Enrolled Copy
+1234
+1235
+1236
+1237
+H.B. 257
+likewise being used for an emergency call;
+(b) asks for or requests the use of a party line or a public pay telephone on the pretext
+that an emergency exists, knowing that no emergency exists;
+(c) reports an emergency or causes an emergency to be reported to any public, private,
+1238
+or volunteer entity whose purpose is to respond to fire, police, or medical emergencies, when
+1239
+the actor knows the reported emergency does not exist; [or]
+1240
+(d) makes a false report, or intentionally aids, abets, or causes a third party to make a
+1241
+false report, to an emergency response service, including a law enforcement dispatcher or a 911
+1242
+emergency response service, if the false report claims that:
+1243
+(i) an ongoing emergency exists;
+1244
+(ii) the emergency described in Subsection (2)(d)(i) currently involves, or involves an
+1245
+1246
+1247
+1248
+imminent threat of, serious bodily injury, serious physical injury, or death; and
+(iii) the emergency described in Subsection (2)(d)(i) is occurring at a specified
+location[.]; or
+(e) makes a false report after having previously made a false report, or intentionally
+1249
+aides, abets, or causes a third party to make a false report, to an emergency response service,
+1250
+including a law enforcement dispatcher or a 911 emergency response service, alleging a
+1251
+violation of Section 63G-31-302 regarding a sex-designated changing room.
+
+1252
+(3) (a) A violation of Subsection (2)(a) or (b) is a class C misdemeanor.
+
+1253
+(b) A violation of Subsection (2)(c) is a class B misdemeanor, except as provided
+1254
+1255
+1256
+under Subsection (3)(c).
+(c) A violation of Subsection (2)(c) is a second degree felony if the report is regarding
+a weapon of mass destruction, as defined in Section 76-10-401.
+
+1257
+(d) A violation of Subsection (2)(d):
+1258
+(i) except as provided in Subsection (3)(d)(ii), is a third degree felony; or
+1259
+(ii) is a second degree felony if:
+1260
+(A) while acting in response to the report, the emergency responder causes physical
+1261
+injury to an individual at the location described in Subsection (2)(d)(iii); or
+- 45 -
+H.B. 257
+1262
+Enrolled Copy
+(B) the actor makes the false report or aids, abets, or causes a third party to make the
+1263
+false report with intent to ambush, attack, or otherwise harm a responding law enforcement
+1264
+officer or emergency responder.
+
+1265
+(e) A violation of Subsection (2)(e) is a class B misdemeanor.
+
+1266
+(4) (a) In addition to any other penalty authorized by law, a court shall order an actor
+1267
+1268
+1269
+1270
+1271
+1272
+convicted of a violation of this section to reimburse:
+(i) any federal, state, or local unit of government, or any private business, organization,
+individual, or entity for all expenses and losses incurred in responding to the violation; and
+(ii) an individual described in Subsection (3)(d)(ii) for the costs for the treatment of the
+physical injury and any psychological injury caused by the offense.
+(b) The court may order that the defendant pay less than the full amount of the costs
+1273
+described in Subsection (4)(a) only if the court states on the record the reasons why the
+1274
+reimbursement would be inappropriate.
+
+1275
+Section 20. Section 76-9-702 is amended to read:
+1276
+76-9-702. Lewdness.
+
+1277
+(1) A person is guilty of lewdness if the person under circumstances not amounting to
+1278
+rape, object rape, forcible sodomy, forcible sexual abuse, aggravated sexual assault, sexual
+1279
+abuse of a minor, unlawful sexual conduct with a 16- or 17-year-old, custodial sexual relations
+1280
+under Section 76-5-412, custodial sexual misconduct under Section 76-5-412.2, custodial
+1281
+sexual relations with youth receiving state services under Section 76-5-413, custodial sexual
+1282
+misconduct with youth receiving state services under Section 76-5-413.2, or an attempt to
+1283
+commit any of these offenses, performs any of the following acts in a public place or under
+1284
+circumstances which the person should know will likely cause affront or alarm to, on, or in the
+1285
+presence of another who is 14 years old or older:
+1286
+(a) an act of sexual intercourse or sodomy;
+1287
+(b) exposes his or her genitals, the female breast below the top of the areola, the
+1288
+1289
+buttocks, the anus, or the pubic area;
+(c) masturbates; or
+- 46 -
+Enrolled Copy
+H.B. 257
+1290
+(d) any other act of lewdness.
+
+1291
+(2) (a) A person convicted the first or second time of a violation of Subsection (1) is
+1292
+1293
+1294
+guilty of a class B misdemeanor, except under Subsection (2)(b).
+(b) A person convicted of a violation of Subsection (1) is guilty of a third degree felony
+if at the time of the violation:
+1295
+(i) the person is a sex offender as defined in Section 77-27-21.7;
+1296
+(ii) the person has been previously convicted two or more times of violating Subsection
+1297
+1298
+1299
+(1); [or]
+(iii) the person has previously been convicted of a violation of Subsection (1) and has
+also previously been convicted of a violation of Section 76-9-702.5[.];
+1300
+(iv) the person commits the offense of lewdness while also committing the offense of:
+1301
+(A) criminal trespass in a sex-designated changing room under Subsection
+1302
+76-6-206(2)(d);
+1303
+(B) lewdness involving a child under Section 76-9-702.5;
+1304
+(C) voyeurism under Section 76-9-702.7; or
+1305
+(D) loitering in a privacy space under Section 76-9-702.8; or
+1306
+(v) the person commits the offense of lewdness in a sex-designated privacy space, as
+1307
+1308
+defined in Section 76-9-702.8, that is not designated for individuals of the actor's sex.
+(c) (i) For purposes of this Subsection (2) and Subsection 77-41-102(18), a plea of
+1309
+guilty or nolo contendere to a charge under this section that is held in abeyance under Title 77,
+1310
+Chapter 2a, Pleas in Abeyance, is the equivalent of a conviction.
+
+1311
+1312
+(ii) This Subsection (2)(c) also applies if the charge under this Subsection (2) has been
+subsequently reduced or dismissed in accordance with the plea in abeyance agreement.
+
+1313
+(3) (a) As used in this Subsection (3):
+1314
+(i) "Common area of a privacy space" means any area of a privacy space other than:
+1315
+(A) a toilet stall with a closed door;
+1316
+(B) immediately in front of a urinal during use; or
+1317
+(C) a shower stall with a closed door or other closed covering.
+
+- 47 -
+H.B. 257
+Enrolled Copy
+1318
+(ii) "Privacy space" means the same as that term is defined in Section 76-9-702.8.
+
+1319
+(b) The common area of a privacy space constitutes a public place or circumstance
+1320
+described in Subsection (1) where an act or an attempted act described in Subsection (1)
+1321
+constitutes lewdness.
+
+1322
+(c) Within the common area of a dressing room, fitting room, locker room, changing
+1323
+facility, or any other space designated for multiple individuals to dress or undress within the
+1324
+same space, exposing, displaying, or otherwise uncovering genitalia that does not correspond
+1325
+with the sex designation of the changing room constitutes an act or an attempted act described
+1326
+in Subsection (1) that constitutes lewdness.
+
+1327
+[(3)] (4) A woman's breast feeding, including breast feeding in any location where the
+1328
+woman otherwise may rightfully be, does not under any circumstance constitute a lewd act,
+1329
+irrespective of whether or not the breast is covered during or incidental to feeding.
+
+1330
+Section 21. Section 76-9-702.5 is amended to read:
+1331
+76-9-702.5. Lewdness involving a child.
+
+1332
+(1) As used in this section[,]:
+1333
+(a) "[in] In the presence of" includes within visual contact through an electronic device.
+
+1334
+(b) "Common area of a privacy space" means the same as that term is defined in
+1335
+Section 76-9-702.
+
+1336
+(c) "Privacy space" means the same as that term is defined in Section 76-9-702.8.
+
+1337
+(2) A person is guilty of lewdness involving a child if the person under circumstances
+1338
+not amounting to rape of a child, object rape of a child, sodomy upon a child, sexual abuse of a
+1339
+child, aggravated sexual abuse of a child, or an attempt to commit any of those offenses,
+1340
+intentionally or knowingly:
+1341
+(a) does any of the following in the presence of a child who is under 14 years of age:
+1342
+(i) performs an act of sexual intercourse or sodomy;
+1343
+(ii) exposes his or her genitals, the female breast below the top of the areola, the
+1344
+1345
+buttocks, the anus, or the pubic area:
+(A) in a public place; or
+- 48 -
+Enrolled Copy
+1346
+1347
+H.B. 257
+(B) in a private place under circumstances the person should know will likely cause
+affront or alarm or with the intent to arouse or gratify the sexual desire of the actor or the child;
+1348
+(iii) masturbates; or
+1349
+(iv) performs any other act of lewdness; or
+1350
+(b) under circumstances not amounting to sexual exploitation of a child under Section
+1351
+76-5b-201 or aggravated sexual exploitation of a child under Section 76-5b-201.1, causes a
+1352
+child under the age of 14 years to expose his or her genitals, anus, or breast, if female, to the
+1353
+actor, with the intent to arouse or gratify the sexual desire of the actor or the child.
+
+1354
+1355
+(3) (a) Lewdness involving a child is a class A misdemeanor, except under Subsection
+(3)(b).
+
+1356
+(b) Lewdness involving a child is a third degree felony if at the time of the violation:
+1357
+(i) the person is a sex offender as defined in Section 77-27-21.7; [or]
+1358
+(ii) the person has previously been convicted of a violation of this section[.];
+1359
+(iii) the person commits the offense of lewdness involving a child while also
+1360
+1361
+1362
+committing the offense of:
+(A) criminal trespass in a sex-designated changing room under Subsection
+76-6-206(2)(d);
+1363
+(B) lewdness under Section 76-9-702;
+1364
+(C) voyeurism under Section 76-9-702.7; or
+1365
+(D) loitering in a privacy space under Section 76-9-702.8; or
+1366
+(iv) the person commits the offense of lewdness involving a child in a sex-designated
+1367
+privacy space, as defined in Section 76-9-702.8, that is not designated for individuals of the
+1368
+actor's sex.
+
+1369
+(4) (a) The common area of a privacy space constitutes a public place or circumstance
+1370
+described in Subsection (1) where an act or an attempted act described in Subsection (1)
+1371
+constitutes lewdness involving a child.
+
+1372
+1373
+(b) Within the common area of a government entity's dressing room, fitting room,
+locker room, changing facility, or any other space designated for multiple individuals to dress
+- 49 -
+H.B. 257
+Enrolled Copy
+1374
+or undress within the same space, exposing, displaying, or otherwise uncovering genitalia that
+1375
+does not correspond with the sex designation of the changing room constitutes an act or an
+1376
+attempted act described in Subsection (1) that constitutes lewdness involving a child.
+
+1377
+Section 22. Section 76-9-702.7 is amended to read:
+1378
+76-9-702.7. Voyeurism offenses -- Penalties.
+
+1379
+(1) A person is guilty of voyeurism who intentionally uses any type of technology to
+1380
+1381
+secretly or surreptitiously record, by video, photograph, or other means, an individual:
+(a) for the purpose of viewing any portion of the individual's body regarding which the
+1382
+individual has a reasonable expectation of privacy, whether or not that portion of the body is
+1383
+covered with clothing;
+1384
+(b) without the knowledge or consent of the individual; and
+1385
+(c) under circumstances in which the individual has a reasonable expectation of
+1386
+1387
+1388
+privacy.
+(2) (a) [A] Except as provided in Subsection (2)(b), a violation of Subsection (1) is a
+class A misdemeanor[, except that].
+
+1389
+(b) The following is a third degree felony:
+1390
+(i) a violation of Subsection (1) committed against a child under 14 years of age [is a
+1391
+third degree felony.];
+1392
+(ii) a violation of Subsection (1) committed while also committing the offense of:
+1393
+(A) criminal trespass in a sex-designated changing room under Subsection
+1394
+76-6-206(2)(d);
+1395
+(B) lewdness under Section 76-9-702;
+1396
+(C) lewdness involving a child under Section 76-9-702.5; or
+1397
+(D) loitering in a privacy space under Section 76-9-702.8; or
+1398
+(iii) a violation of Subsection (1) in a sex-designated privacy space, as defined in
+1399
+1400
+1401
+Section 76-9-702.8, that is not designated for individuals of the actor's sex.
+(3) Distribution or sale of any images, including in print, electronic, magnetic, or
+digital format, obtained under Subsection (1) by transmission, display, or dissemination is a
+- 50 -
+Enrolled Copy
+H.B. 257
+1402
+third degree felony, except that if the violation of this Subsection (3) includes images of a child
+1403
+under 14 years of age, the violation is a second degree felony.
+
+1404
+(4) A person is guilty of voyeurism who, under circumstances not amounting to a
+1405
+violation of Subsection (1), views or attempts to view an individual, with or without the use of
+1406
+any instrumentality:
+1407
+(a) with the intent of viewing any portion of the individual's body regarding which the
+1408
+individual has a reasonable expectation of privacy, whether or not that portion of the body is
+1409
+covered with clothing;
+1410
+(b) without the knowledge or consent of the individual; and
+1411
+(c) under circumstances in which the individual has a reasonable expectation of
+1412
+1413
+1414
+privacy.
+(5) (a) [A] Except as provided in Subsection (5)(b), a violation of Subsection (4) is a
+class B misdemeanor[, except that].
+
+1415
+(b) The following is a class A misdemeanor:
+1416
+(i) a violation of Subsection (4) committed against a child under 14 years of age is a
+1417
+class A misdemeanor[.];
+1418
+(ii) a violation of Subsection (4) committed while also committing the offense of:
+1419
+(A) criminal trespass in a sex-designated changing room under Subsection
+1420
+76-6-206(2)(d);
+1421
+(B) lewdness under Section 76-9-702;
+1422
+(C) lewdness involving a child under Section 76-9-702.5; or
+1423
+(D) loitering in a privacy space under Section 76-9-702.8; or
+1424
+(iii) a violation of Subsection (4) committed in a sex-designated privacy space, as
+1425
+1426
+1427
+defined in Section 76-9-702.8, that is not designated for individuals of the actor's sex.
+(6) For purposes of this section, an individual has a reasonable expectation of privacy
+within a public restroom.
+
+1428
+Section 23. Section 76-9-702.8 is enacted to read:
+1429
+76-9-702.8. Loitering in a privacy space.
+
+- 51 -
+H.B. 257
+Enrolled Copy
+1430
+(1) As used in this section:
+1431
+(a) "Privacy space" means the following in which an individual has a reasonable
+1432
+expectation of privacy:
+1433
+(i) a restroom or any other space that includes a toilet;
+1434
+(ii) a dressing room, fitting room, locker room, changing facility, or any other space
+1435
+designated for multiple individuals to dress or undress within the same space; or
+1436
+(iii) any room or space that includes a shower.
+
+1437
+(b) "Sex-designated" means that a facility, program, or event is designated specifically
+1438
+for males or females and not the opposite sex.
+
+1439
+1440
+(2) An actor commits the offense of unlawfully loitering in a privacy space if the actor
+intentionally or knowingly remains unlawfully in a privacy space.
+
+1441
+1442
+(3) (a) Except as provided in Subsection (3)(b), a violation of Subsection (2) is a class
+B misdemeanor.
+
+1443
+1444
+(b) A violation of Subsection (4) is a class A misdemeanor if the actor commits the
+offense:
+1445
+(i) while also committing the offense of:
+1446
+(A) criminal trespass in a sex-designated changing room under Subsection
+1447
+76-6-206(2)(d);
+1448
+(B) lewdness under Section 76-9-702;
+1449
+(C) lewdness involving a child under Section 76-9-702.5; or
+1450
+(D) voyeurism under Section 76-9-702.7; or
+1451
+(ii) in a sex-designated privacy space that is not designated for individuals of the actor's
+1452
+sex.
+
+1453
+Section 24. Effective date.
+
+1454
+(1) Except as provided in Subsection (2), if approved by two-thirds of all the members
+1455
+elected to each house, this bill takes effect upon approval by the governor, or the day following
+1456
+the constitutional time limit of Utah Constitution, Article VII, Section 8, without the governor's
+1457
+signature, or in the case of a veto, the date of veto override.
+
+- 52 -
+Enrolled Copy
+H.B. 257
+1458
+(2) The actions affecting the following sections take effect on May 1, 2024:
+1459
+(a) Section 63G-31-401;
+1460
+(b) Section 67-3-1; and
+1461
+(c) Section 67-5-1.
+
+- 53 -
+

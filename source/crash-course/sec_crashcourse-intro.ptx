@@ -3,17 +3,17 @@
 <section xml:id="sec_crashcourse-intro" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Getting Started</title>
   <introduction>
-    <p>If you're new to incorporating social justice issues into math classes, I'd encourage you to start by reading or skimming Jonathan Osler's <url visual="https://drive.google.com/file/d/1tz6Tc0Ug44OyAN_WFRODFT-LNRRQBCnS/view?usp=sharing">"A Guide for Integrating Issues of Social and Economic Justice into Mathematics Curriculum"</url>, made by a high-school educator but equally relevant in the postsecondary context. Next, Drew Winter's <url visual="https://drive.google.com/file/d/1Hui9iITN5yD8D32aniSSDH73PvOoS8GQ/view?usp=sharing">"Infusing Mathematics with Culture"</url> offers a valuable framework for thinking about the relationship between mathematical content and social justice issues, as well as an emphasis on connecting to student activism and interests.
+    <p>If you're new to incorporating social justice issues into math classes, I'd encourage you to start by reading or skimming Jonathan Osler's <url visual="https://defendinged.org/wp-content/uploads/2022/04/SJMathGuide.pdf">"A Guide for Integrating Issues of Social and Economic Justice into Mathematics Curriculum"</url>, made by a high-school educator but equally relevant in the postsecondary context. Next, Dale Winter's <url visual="https://onlinelibrary.wiley.com/doi/epdf/10.1002/tl.291">"Infusing Mathematics with Culture"</url> offers a valuable framework for thinking about the relationship between mathematical content and social justice issues, as well as an emphasis on connecting to student activism and interests.
     </p>
     <p>
-      This book is meant to be used as a workbook for students in a quantitative reasoning (QR) course framed around issues of social justice (SJ). This course developed out of my <url visual="https://kenanince.org/OER4SJ">resource folder for open-access SJ math resources</url>; feel free to mix and match chapters from this book and resources from the folder to plug into existing courses as well as to "remix" your own full course.
+      This book is meant to be used as a workbook for students in a quantitative reasoning (QR) course framed around issues of social justice (SJ). This course developed out of Kenan Ince's Social Justice open source resources and Westminster University's course Social Justice by the Numbers; feel free to mix and match chapters from this book and other resources to plug into existing courses as well as to "remix" your own full course.
     </p>
   </introduction>
   <subsection xml:id="subsec-why-math-for-SJ">
     <title>Why Teach Postsecondary Math for Social Justice?</title>
     <p>
     <ul>
-    <li>Culturally relevant teaching practices contribute to educational equity and social justice (McGee 2014)</li>
+    <li>Culturally relevant teaching (Ladson-Billings 1995) practices contribute to educational equity and social justice (McGee 2014)</li>
     <li>Teaching math with a social justice frame increases student learning and achievement (Gutstein 2003; Moses &amp; Cobb 2001; Winter 2007)</li>
         <li>Math is already political. What assumptions do our algorithms and databases inherit (O'Neill 2016)? What do we think is "worthy" of mathematical inquiry? Math with applications to <url visual="https://nagt.org/nagt/publications/trenches/articles/v5n3-5.html">petroleum engineering or fracking (Hendrickson 2015)</url>? <url visual="https://www.tandfonline.com/doi/abs/10.1080/09332480.2006.10722786?journalCode=ucha20&amp;journalCode=ucha20">Statistical analyses of police stops by race (Khadjavi 2013</url>, <url visual="https://rpubs.com/kaince/SLCPD">Ince 2021</url>)?</li>
     </ul>
@@ -24,7 +24,7 @@
   <subsection xml:id="subsec-other-textbooks">
     <title>Other Texts for a Math for Social Justice Course</title>
     <p>
-      Resources are beginning to be developed for full postsecondary courses, largely in quantitative reasoning, for social justice. A few of the exciting new resources are described in the table below; please <url visual="https://forms.gle/Sfm9fvngRipEjneq9">fill out this form</url> if you know of any postsecondary-level resources I'm missing!
+      Resources are beginning to be developed for full postsecondary courses, largely in quantitative reasoning, for social justice. A few of the exciting new resources are described in the table below; and check out more at <url visual="https://qubeshub.org/community/groups/math4impact">Math 4 Impact</url> for other resources.
     </p>
 
       <table>
