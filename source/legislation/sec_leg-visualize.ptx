@@ -56,6 +56,65 @@
 
 		<subsection xml:id="subsec-data-prov-and-sov">
 			<title>Data Provenance and Sovereignty</title>
+			<p>Our lived experiences shape how we perceive the world around us and what becomes important to us when we do anything from watching a movie, reading headlines, or as you did before, reading data. </p>
+		<activity>
+			<p>In this activity we will look at some other sources of data about the transgender community. <url href = "https://transequality.org/sites/default/files/2025-06/USTS_2022Health%26WellbeingReport_WEB.pdf">The United States Transgender Survey</url> was conducted in 2022 by the National Center for Transgender Equality (NCTE), an organization which advocates for transgender and gender-nonconforming people.  Read through the report and reflect on the following questions:
+			<ol>
+				<li><p>When you read the study, are there things that you don't understand or have questions about? Are there terms that you don’t recognize? What information about the transgender community do we need to know as background to understand this study?</p></li>
+				<li><p>Think about the ways that you've seen transgender and gender non-conforming people portrayed in media - books, tv shows, movies, news, or on the web. How do our lived experiences and media consumption shape our expectations about those basic data? How do these experiences shape our reading of data?</p></li>
+				<li><p>Fairness and Accuracy in Reporting (FAIR) released a <url href="https://fair.org/home/nyt-less-interested-than-ever-in-trans-perspectives-on-trans-issues/">study on the portrayal of transgender rights issues in the New York Times </url>. Read through the study.  How do you think this is related to your answer to the previous question? How could this affect the way that people think about transgender rights and anti-transgender rights legislation?</p></li>
+			</ol>
+			</p>
+		</activity>
+	
+		<activity>
+		<p>You've now seen some data on anti-transgender legislation and some data on transgender rights collected by the NCTE.  In this activity, we’ll look at data collected about the transgender community from other sources.</p>
+		<ol>
+			<li><p>The Pew Research Center is a well-respected nonpartisan think tank. In 2025 they released a <url href="https://www.pewresearch.org/short-reads/2025/02/26/americans-have-grown-more-supportive-of-restrictions-for-trans-people-in-recent-years/">study about attitudes toward transgender rights in the United States</url>.  Read through this study.  What stories does this data tell us?</p></li>
+			<li><p>The Williams Institute at the University of California, Los Angeles studies sex and gender issues in public policy.  In 2022 they released <url href="https://williamsinstitute.law.ucla.edu/wp-content/uploads/Trans-Pop-Update-Jun-2022.pdf">a study on the makeup and concerns of the transgender population in the United States </url>.  Read through this study.  What stories does the data tell us?</p></li>
+			<li><p>How do the stories from these studies differ? How are they the same?</p></li>
+			<li><p>Think about your own lived experiences around these issues.  How did this impact how you read and interpreted the data?</p></li>
+			<li><p>Think about the data you saw in the previous section and the data in this section.  How did the story you read from those studies differ from what you read today? </p></li>
+			<li><p>Data is a valuable tool for understanding complicated issues and helping us make decisions.  When we look at data about people, though, we always need to remember the people behind the data.</p>
+			<ol>
+				<li><p>When we collect survey data, the researchers choose which questions they ask.  How can the questions we choose erase people's identities?</p></li>
+				<li><p>How can we collect data about vulnerable people in a way that is ethical?</p></li>
+			</ol></li>
+		</ol>
+		</activity>
+
+		<p>There are principles we can hold to in order to avoid problems the PewResearch and NYT have perpetuated. For example, when we work with gathering data on communities we could model after what Indigenous communities have created around their data: the CARE Principles for Indigenous Data Governance in mind (Global Indigenous Data Alliance (2022)).</p>
+			<ul>
+				<li><p>Collective benefit, </p></li>
+				<li><p>Authority to control, </p></li>
+				<li><p>Responsibility, and </p></li>
+				<li><p>Ethics.</p></li>
+			</ul>
 			
+		<definition xml:id="def-data-provenance">
+			<title>Data Provenance</title>
+			<statement>
+				<p>Data provenance is the story of how the data was collected and for what purpose.</p>
+			</statement>
+		</definition>
+
+		<definition xml:id="def-data-sovereignty">
+			<title>Data Sovereignty</title>
+			<statement>
+				<p>Data sovereignty means that data generated within a country’s borders is governed by that nation’s laws and regulatory frameworks; this ensures local control over data access, storage, and usage.</p>
+			</statement>
+		</definition>
+		
+		<exercises xml:id="exercises-leg-visualize">
+		<ol> 
+			<li><p>Reflection</p>
+				<ol>
+					<li><p>How does our lived experience change how we read data. Look back at what you first thought on these issues, how does that reflect on your lived experience. What has changed?</p></li>
+					<li><p> Read Care Principles for Indigenous Data Governance. Where did these principles come from and in what ways were these principles ignored by Pew Research and NYT? </p></li>
+
+				</ol>	
+			</li>
+		</ol>
+		</exercises>
 		</subsection>
 </section>
