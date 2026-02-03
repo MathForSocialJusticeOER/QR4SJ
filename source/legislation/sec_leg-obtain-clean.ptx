@@ -1,5 +1,5 @@
 <section xml:id="sec-leg-obtain-clean">
-		<title>Obtaining and Cleaning the Data</title>
+		<title>Using Technology to Obtain and Clean the Data: brief Excel and R Studio tutorials</title>
 		<introduction>
 			<p>
 				Here, we will find reputable sources for data on anti-trans bills and get the data into a form we can analyze.
@@ -17,7 +17,7 @@
 
 
 		<subsection xml:id="importing-and-merging-the-data">
-			<title>Importing and Merging the Data</title>
+			<title>Using Excel: Importing and Merging the Data</title>
 			<exercises xml:id="exercises-import">
 			<exercisegroup>
 			<title>Finding Data Online</title>
@@ -125,26 +125,9 @@
 			<p> Note: The TRIM( ) function will not remove any spaces between two words in a state name (“North Carolina” to “NorthCarolina”), it will just remove excess spaces at the beginning and end of the state name. </p>
 		</subsection>
 
-		<subsection xml:id="exercise">
-			<title>Exercise</title>
-			<p> Instructions: Open the <url href = "https://github.com/BatesDCS23-24/FemSTEM2/blob/b680dd6723a2a4097ad27e978de7d686d9deeb02/Excel%20files/5.3%20Exercise%201.xlsx">Oklahoma Excel file</url> and click “view raw” to download the file. </p>
-			<p> You are part of a data-cleaning team focused on this data set. Your job is to clean the provided data set as follows: 
-				<url href="https://tracktranslegislation.com">tracktranslegislation.com</url>
-				<ol>
-						<li>  Delete all conditional formatting (i.e. capitalization)</li>
-						<li>  Replace all mentions of “Alabama” with “Oklahoma”</li>
-						<li>  Ensure that everything is spelled correctly (use spell check)</li>
-						<li>  Remove all duplicate bills </li>
-						<li>  Create a new column called “Bill Description 2.” Use the TRIM() function to remove excess spaces in the “Bill Description” column.</li>
-						<li>  Your boss wants a new “State2” column where all of the state names are completely capitalized (i.e. “OKLAHOMA”). Create a new “State2” column using the UPPER( ) function. </li>
-				</ol>
-			</p>
-			<p> Note: If you want to know how to clean data using the R language, check out <url href="https://rc2e.com/datastructures#intro-DataStructures"> Chapter 5 on Data Structures</url> in RCookbook. </p>
-		</subsection>
-
 <subsection xml:id="cleaning-for-text-analysis">
 
-			<title>Cleaning for Text Analysis</title>
+			<title>Cleaning for Text Analysis using R Studio</title>
 			<p>
 				Text analysis is the process of using computer systems to understand human-written text for analysis purposes including analyzing legislation. Text can be analyzed from unstructured data sources such as emails, surveys, documents, and other online material to extract insights. The main feature of text analysis is training computer software to associate words with meanings, similar to how humans learn a new language through objects, actions, and emotions. Deep learning and natural language processing (NLP) are the principles of text analysis. <url href = "https://aws.amazon.com/what-is/text-analysis/">(Source).</url>
 			</p>
@@ -159,7 +142,8 @@
 				Note: whenever you download a file to open in R or R Studio, make sure to set your working directory to wherever that file is located. For example, if you have the file just on your desktop (not in any folder), entering <em> “setwd("~/Desktop")” </em> in the console window will set the working directory to your desktop.
 			</p>
 			
-			<activity>
+			<example>
+			<p>An example of the steps you take to clean text data in R Studio is provided below.</p>
 				<p> Before we do any text analysis, we have to do some data cleaning. We will use an Arizona bill regarding trans legislation as an example, which can be viewed <url href = "https://github.com/DAAAAMNSocialJustice/anti-trans-legislation/blob/3f450de86643b58c20df51e910cf7ebd8c4a266e/4-bill-test.xlsx"> here </url>. </p>
 
 				<p> After downloading the "4-bill-test" excel file, we can enter the following code in R: </p>
@@ -177,7 +161,7 @@
 						<p> <image source="Textualizing the Data Images/Text Analysis Image 4.png"/> </p>
 					</li>
 					<li>  
-						<p> Deleting a phrase or line. </p> <p> This text tends to have a 1. and a. and (a) and (b). We already eliminated parentheses and periods, so now we are going to eliminate all single letter words and numbers.  We are intentionally not removing all numbers. There are several references to K12 or under 18 so we want to maintain these. We also want to make sure that our words will be recognized as the same when we construct relationships, so we have to convert everything to lowercase. </p>
+						<p> Deleting a phrase or line. </p> <p> This text tends to have a 1. and a. and (a) and (b). We already eliminated parentheses and periods, so now we are going to eliminate all single letter words and numbers.  We are intentionally not removing all numbers. There are several references to K12 or under 18 so we want to maintain these. We also want to make sure that our words will be recognized as the same when we construct relationships, so we have to convert everything to lowercase. Don't just copy these commands word for word on your text, think about whether or not you need them. In particular, "str_replace_all("[^[alnum:]\\s]", " ")" will actually delete everything, instead you want to think about what specific words are unnecessary to your data and remove those specific words. For example, maybe "Chapter" appears a lot because your text is broken into "Chapter 1", "Chapter 2", etc. So instead you'd write "str_replace_all("chapter"," ")" </p>
 						<p> <image source="Textualizing the Data Images/Text Analysis Image 5.png"/> </p>
 					</li>
 					<li>  
@@ -197,7 +181,7 @@
 				<p> <image source="Textualizing the Data Images/Text Analysis Image 10.png"/> </p>
 				<p> We can note that the relative frequency (rflel) is the number of times a particular value for a variable has been observed in relation to the total number of values for that variable. We can also see from our top 20 list that "school" and "pronoun" were of the most common words used in the text. This makes sense given the context of this bill. </p>
 				<p> <image source="Textualizing the Data Images/Text Analysis Image 11.png"/> </p>
-			</activity>
+					</example>
 		</subsection>
 
 		<subsection xml:id="visualizing-text-analysis-data">
@@ -244,5 +228,24 @@
 				<p> Which cleaning method for text analysis do you think would be most useful to learn? Why? This question is asking for an opinion, there is no right answer. </p>
 			</exercise>
 		</subsection>
+
+		<subsection xml:id="exercise">
+			<title>Exercise</title>
+			<p> Instructions: Open the <url href = "https://github.com/BatesDCS23-24/FemSTEM2/blob/b680dd6723a2a4097ad27e978de7d686d9deeb02/Excel%20files/5.3%20Exercise%201.xlsx">Oklahoma Excel file</url> and click “view raw” to download the file. </p>
+			<p> You are part of a data-cleaning team focused on this data set. Your job is to clean the provided data set as follows: 
+				<url href="https://tracktranslegislation.com">tracktranslegislation.com</url>
+				<ol>
+						<li>  Delete all conditional formatting (i.e. capitalization)</li>
+						<li>  Replace all mentions of “Alabama” with “Oklahoma”</li>
+						<li>  Ensure that everything is spelled correctly (use spell check)</li>
+						<li>  Remove all duplicate bills </li>
+						<li>  Create a new column called “Bill Description 2.” Use the TRIM() function to remove excess spaces in the “Bill Description” column.</li>
+						<li>  Your boss wants a new “State2” column where all of the state names are completely capitalized (i.e. “OKLAHOMA”). Create a new “State2” column using the UPPER( ) function. </li>
+				</ol>
+			</p>
+			<p> Note: If you want to know how to clean data using the R language, check out <url href="https://rc2e.com/datastructures#intro-DataStructures"> Chapter 5 on Data Structures</url> in RCookbook. </p>
+		</subsection>
+
+
 
 	</section>

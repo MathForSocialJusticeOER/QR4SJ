@@ -1,9 +1,15 @@
-	<section xml:id="sec-leg-case-study"><title>Case Study: How can we support storytelling using different data sources?</title>
-
-
-<p>
-Throughout this chapter, you have explored and asked questions about a data set on anti-trans legislation in the US in recent years. This provides a broad overview of the landscape of anti-trans legislation, where it is happening, and the different aspects of civil rights that have been targeted. As we continue to grapple with what these means for us as global citizens and members of society, it’s important to know how to contribute towards the change we want to see in this realm.
+	<section xml:id="sec-leg-case-study"><title>Now what? Exploring a Case Study</title>
+<introduction>
+		<p>
+Throughout this chapter, you have explored and asked questions about a data set on anti-trans legislation in the US in recent years. This provides a broad overview of the landscape of anti-trans legislation, where it is happening, and the different aspects of civil rights that have been targeted. As we continue to grapple with what these means for us as global citizens and members of society, it is important to know how to contribute towards the change we want to see in this realm.
 </p> 
+</introduction>
+
+<subsection xml:id="subsec-storytelling">
+	<title>How can we support storytelling using different data sources?</title>
+	
+
+
 
 <p>
 An example of an anti-trans bill that was struck down after legal action and scrutiny is Tennessee’s SB-0001 from 2023. The legislators who supported the bill sought to restrict minors in Tennessee from accessing gender-affirming care. A word-chart of the bill is shown below. Much of the language that lawmakers used surrounded terms like "minors", "performed", and "medical procedure(s)" in reference to gender-affirming care for transgender youth. The term "violation" was used to frame this care in opposition to the laws proposed in the bill.
@@ -13,6 +19,9 @@ An example of an anti-trans bill that was struck down after legal action and scr
 
 Graph goes here of frequency of words
 
+
+
+<p> <image source="TNSB0001freq.png"/> </p>
 -->
 
 <p>
@@ -23,7 +32,7 @@ Judge Eli Richardson, in his decision on the case, repeatedly argued that "paren
 the medical care of their children" <xref ref="court-documents"/>. This argument highlights the role of parents in seeking basic medical care 
 for transgender youth, and it also uses a commonplace term that was never found in the bill itself: "medical care." 
 In contrast, the downstricken bill referred to medical "procedure(s)," a term chosen to connote experimental, invasive, 
-and potentially harmful treatments.
+and potentially harmful treatments. 
 </p>
 
 <activity>
@@ -86,7 +95,25 @@ What are other issues you care about that you can learn more about and contribut
 
 </activity>
 
+</subsection>
 
+
+<subsection xml:id="subsec-resources">
+	<title>Resources for learning more, finding community, or taking action</title>
+	<p>From <xref ref="miss-majors"/>Janetta Johnson and Tourmaline recalls how Miss Majors taught folk how to not become overwhelmed by the amount of work left to be done. 
+	<blockquote>
+  <paragraphs>
+    <p>"“You’d see so many homeless Black trans people sleeping on the street,” Johnson recalls of the Tenderloin in the ’90s. “I was like, ‘How do we deal with this? How do we house people? How do we keep our people safe?’ And [Major’s] like, ‘One person at a time.’” 
+As a matriarch, she had a way with words — an uncanny ability to flip the perceptions and responsibilities of others with a simple quip or practical observation. Major was skilled, Tourmaline says, at drawing attention away from what could be overwhelming, and demonstrating that even momentary joys could be “a really powerful bridge to what we can build.”” </p>
+    <title>— Janetta Johnson and Tourmaline</title>
+  </paragraphs>
+</blockquote>
+So let's look towards resources that are building these "momentary joys" and brainstorm how we can support them.
+	</p> 	
+		
+
+
+</subsection>
 
 
 <references>
@@ -98,6 +125,11 @@ Court documents and judge’s decision. <url href="https://storage.courtlistener
 <biblio xml:id="erin-morning">
 Narrative sourced from Erin in the Morning. <url href="https://www.erininthemorning.com/p/ky-tn-judges-debunk-anti-trans-arguments"/>
 </biblio>
+
+<biblio xml:id="miss-majors">
+	The Family That Miss Major Built <url href ="https://www.them.us/story/miss-major-griffin-gracy-family-death-legacy-history"/>
+</biblio>
+
 </references>
 
 
